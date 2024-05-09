@@ -1,0 +1,1763 @@
+May  9 02:36:02 dnsmasq[71314]: query[A] thunder.dropbox.com from fd08:4711::5
+May  9 02:36:02 dnsmasq[71314]: cached-stale thunder.dropbox.com is <CNAME>
+May  9 02:36:02 dnsmasq[71314]: cached-stale bolt.v.dropbox.com is 162.125.40.1
+May  9 02:36:02 dnsmasq[71314]: forwarded thunder.dropbox.com to 127.0.0.1#5335
+May  9 02:36:02 dnsmasq[71314]: query[AAAA] thunder.dropbox.com from fd08:4711::5
+May  9 02:36:02 dnsmasq[71314]: cached-stale thunder.dropbox.com is <CNAME>
+May  9 02:36:02 dnsmasq[71314]: cached bolt.v.dropbox.com is NODATA-IPv6
+May  9 02:36:02 dnsmasq[71314]: forwarded thunder.dropbox.com to 127.0.0.1#5335
+May  9 02:36:02 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:02 dnsmasq[71314]: reply thunder.dropbox.com is <CNAME>
+May  9 02:36:02 dnsmasq[71314]: reply bolt.v.dropbox.com is NODATA-IPv6
+May  9 02:36:02 dnsmasq[71314]: query[AAAA] thunder.dropbox.com from 10.100.0.5
+May  9 02:36:02 dnsmasq[71314]: cached thunder.dropbox.com is <CNAME>
+May  9 02:36:02 dnsmasq[71314]: cached bolt.v.dropbox.com is NODATA-IPv6
+May  9 02:36:02 dnsmasq[71314]: query[A] thunder.dropbox.com from 10.100.0.5
+May  9 02:36:02 dnsmasq[71314]: cached thunder.dropbox.com is <CNAME>
+May  9 02:36:02 dnsmasq[71314]: cached-stale bolt.v.dropbox.com is 162.125.40.1
+May  9 02:36:02 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:02 dnsmasq[71314]: reply thunder.dropbox.com is <CNAME>
+May  9 02:36:02 dnsmasq[71314]: reply bolt.v.dropbox.com is 162.125.40.1
+May  9 02:36:08 dnsmasq[71314]: query[A] www.youtube.com from fd67:2040:63dc:0:95a5:aec4:1af4:b48b
+May  9 02:36:08 dnsmasq[71314]: cached-stale www.youtube.com is <CNAME>
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.251.214.142
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 172.217.12.110
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.250.189.238
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.250.191.46
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.250.191.78
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.251.46.174
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.251.46.206
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 172.217.164.110
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.250.72.206
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.250.189.174
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.250.189.206
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.251.32.46
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.251.46.238
+May  9 02:36:08 dnsmasq[71314]: forwarded www.youtube.com to 127.0.0.1#5335
+May  9 02:36:08 dnsmasq[71314]: query[A] www.youtube.com from 192.168.1.205
+May  9 02:36:08 dnsmasq[71314]: cached-stale www.youtube.com is <CNAME>
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.251.46.238
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.251.214.142
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 172.217.12.110
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.250.189.238
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.250.191.46
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.250.191.78
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.251.46.174
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.251.46.206
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 172.217.164.110
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.250.72.206
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.250.189.174
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.250.189.206
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 142.251.32.46
+May  9 02:36:08 dnsmasq[71314]: query[AAAA] www.youtube.com from 192.168.1.205
+May  9 02:36:08 dnsmasq[71314]: cached-stale www.youtube.com is <CNAME>
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 2607:f8b0:4005:810::200e
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 2607:f8b0:4005:802::200e
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 2607:f8b0:4005:812::200e
+May  9 02:36:08 dnsmasq[71314]: cached-stale youtube-ui.l.google.com is 2607:f8b0:4005:80b::200e
+May  9 02:36:08 dnsmasq[71314]: forwarded www.youtube.com to 127.0.0.1#5335
+May  9 02:36:08 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:08 dnsmasq[71314]: reply www.youtube.com is <CNAME>
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 172.217.12.110
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 142.250.189.238
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 142.250.191.46
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 142.250.191.78
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 142.251.46.174
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 142.251.46.206
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 172.217.164.110
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 142.250.72.206
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 142.250.189.174
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 142.250.189.206
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 142.251.32.46
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 142.251.46.238
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 142.251.214.142
+May  9 02:36:08 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:08 dnsmasq[71314]: reply www.youtube.com is <CNAME>
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 2607:f8b0:4005:802::200e
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 2607:f8b0:4005:812::200e
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 2607:f8b0:4005:80b::200e
+May  9 02:36:08 dnsmasq[71314]: reply youtube-ui.l.google.com is 2607:f8b0:4005:810::200e
+May  9 02:36:09 dnsmasq[71314]: query[PTR] lb._dns-sd._udp.112.31.87.10.in-addr.arpa from 10.100.0.4
+May  9 02:36:09 dnsmasq[71314]: forwarded lb._dns-sd._udp.112.31.87.10.in-addr.arpa to 127.0.0.1#5335
+May  9 02:36:09 dnsmasq[71314]: query[PTR] lb._dns-sd._udp.4.0.100.10.in-addr.arpa from 10.100.0.4
+May  9 02:36:09 dnsmasq[71314]: forwarded lb._dns-sd._udp.4.0.100.10.in-addr.arpa to 127.0.0.1#5335
+May  9 02:36:09 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:09 dnsmasq[71314]: reply lb._dns-sd._udp.112.31.87.10.in-addr.arpa is NXDOMAIN
+May  9 02:36:09 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:09 dnsmasq[71314]: reply lb._dns-sd._udp.4.0.100.10.in-addr.arpa is NXDOMAIN
+May  9 02:36:09 dnsmasq[71314]: query[PTR] lb._dns-sd._udp.0.0.168.192.in-addr.arpa from 10.100.0.4
+May  9 02:36:09 dnsmasq[71314]: forwarded lb._dns-sd._udp.0.0.168.192.in-addr.arpa to 127.0.0.1#5335
+May  9 02:36:09 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:09 dnsmasq[71314]: reply lb._dns-sd._udp.0.0.168.192.in-addr.arpa is NXDOMAIN
+May  9 02:36:12 dnsmasq[71314]: query[A] events.launchdarkly.com from 192.168.1.10
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 54.235.104.53
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 34.198.76.125
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 35.171.73.226
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 54.205.230.48
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 52.206.204.68
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 52.6.53.6
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 54.211.227.220
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 35.174.236.115
+May  9 02:36:12 dnsmasq[71314]: forwarded events.launchdarkly.com to 127.0.0.1#5335
+May  9 02:36:12 dnsmasq[71314]: query[A] grafana.com from 192.168.1.10
+May  9 02:36:12 dnsmasq[71314]: cached grafana.com is 34.120.177.193
+May  9 02:36:12 dnsmasq[71314]: query[AAAA] events.launchdarkly.com from 192.168.1.10
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is NODATA-IPv6
+May  9 02:36:12 dnsmasq[71314]: forwarded events.launchdarkly.com to 127.0.0.1#5335
+May  9 02:36:12 dnsmasq[71314]: query[A] events.launchdarkly.com from 192.168.1.10
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 35.174.236.115
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 54.235.104.53
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 34.198.76.125
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 35.171.73.226
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 54.205.230.48
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 52.206.204.68
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 52.6.53.6
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is 54.211.227.220
+May  9 02:36:12 dnsmasq[71314]: query[HTTPS] events.launchdarkly.com from 192.168.1.10
+May  9 02:36:12 dnsmasq[71314]: cached-stale events.launchdarkly.com is NODATA
+May  9 02:36:12 dnsmasq[71314]: forwarded events.launchdarkly.com to 127.0.0.1#5335
+May  9 02:36:12 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:12 dnsmasq[71314]: reply events.launchdarkly.com is 34.198.76.125
+May  9 02:36:12 dnsmasq[71314]: reply events.launchdarkly.com is 52.206.204.68
+May  9 02:36:12 dnsmasq[71314]: reply events.launchdarkly.com is 44.198.36.103
+May  9 02:36:12 dnsmasq[71314]: reply events.launchdarkly.com is 54.84.117.252
+May  9 02:36:12 dnsmasq[71314]: reply events.launchdarkly.com is 52.20.211.222
+May  9 02:36:12 dnsmasq[71314]: reply events.launchdarkly.com is 44.209.144.86
+May  9 02:36:12 dnsmasq[71314]: reply events.launchdarkly.com is 52.206.205.81
+May  9 02:36:12 dnsmasq[71314]: reply events.launchdarkly.com is 3.225.166.233
+May  9 02:36:12 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:12 dnsmasq[71314]: reply events.launchdarkly.com is NODATA-IPv6
+May  9 02:36:12 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:12 dnsmasq[71314]: reply events.launchdarkly.com is NODATA
+May  9 02:36:12 dnsmasq[71314]: query[A] grafana.zendesk.com from 192.168.1.10
+May  9 02:36:12 dnsmasq[71314]: cached-stale grafana.zendesk.com is 104.16.51.111
+May  9 02:36:12 dnsmasq[71314]: cached-stale grafana.zendesk.com is 104.16.53.111
+May  9 02:36:12 dnsmasq[71314]: forwarded grafana.zendesk.com to 127.0.0.1#5335
+May  9 02:36:12 dnsmasq[71314]: query[AAAA] grafana.zendesk.com from 192.168.1.10
+May  9 02:36:12 dnsmasq[71314]: cached-stale grafana.zendesk.com is NODATA-IPv6
+May  9 02:36:12 dnsmasq[71314]: forwarded grafana.zendesk.com to 127.0.0.1#5335
+May  9 02:36:12 dnsmasq[71314]: query[A] grafana.zendesk.com from 192.168.1.10
+May  9 02:36:12 dnsmasq[71314]: cached-stale grafana.zendesk.com is 104.16.53.111
+May  9 02:36:12 dnsmasq[71314]: cached-stale grafana.zendesk.com is 104.16.51.111
+May  9 02:36:12 dnsmasq[71314]: query[HTTPS] grafana.zendesk.com from 192.168.1.10
+May  9 02:36:12 dnsmasq[71314]: cached-stale grafana.zendesk.com is NODATA
+May  9 02:36:12 dnsmasq[71314]: forwarded grafana.zendesk.com to 127.0.0.1#5335
+May  9 02:36:12 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:12 dnsmasq[71314]: reply grafana.zendesk.com is 104.16.51.111
+May  9 02:36:12 dnsmasq[71314]: reply grafana.zendesk.com is 104.16.53.111
+May  9 02:36:12 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:12 dnsmasq[71314]: reply grafana.zendesk.com is NODATA
+May  9 02:36:12 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:12 dnsmasq[71314]: reply grafana.zendesk.com is NODATA-IPv6
+May  9 02:36:12 dnsmasq[71314]: query[A] pod-29.zendesk.com from 192.168.1.10
+May  9 02:36:12 dnsmasq[71314]: cached-stale pod-29.zendesk.com is 216.198.17.60
+May  9 02:36:12 dnsmasq[71314]: cached-stale pod-29.zendesk.com is 216.198.17.62
+May  9 02:36:12 dnsmasq[71314]: cached-stale pod-29.zendesk.com is 216.198.17.61
+May  9 02:36:12 dnsmasq[71314]: forwarded pod-29.zendesk.com to 127.0.0.1#5335
+May  9 02:36:12 dnsmasq[71314]: query[AAAA] pod-29.zendesk.com from 192.168.1.10
+May  9 02:36:12 dnsmasq[71314]: cached-stale pod-29.zendesk.com is NODATA-IPv6
+May  9 02:36:12 dnsmasq[71314]: forwarded pod-29.zendesk.com to 127.0.0.1#5335
+May  9 02:36:12 dnsmasq[71314]: query[A] pod-29.zendesk.com from 192.168.1.10
+May  9 02:36:12 dnsmasq[71314]: cached-stale pod-29.zendesk.com is 216.198.17.61
+May  9 02:36:12 dnsmasq[71314]: cached-stale pod-29.zendesk.com is 216.198.17.60
+May  9 02:36:12 dnsmasq[71314]: cached-stale pod-29.zendesk.com is 216.198.17.62
+May  9 02:36:12 dnsmasq[71314]: query[HTTPS] pod-29.zendesk.com from 192.168.1.10
+May  9 02:36:12 dnsmasq[71314]: cached-stale pod-29.zendesk.com is NODATA
+May  9 02:36:12 dnsmasq[71314]: forwarded pod-29.zendesk.com to 127.0.0.1#5335
+May  9 02:36:12 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:12 dnsmasq[71314]: reply pod-29.zendesk.com is 216.198.17.60
+May  9 02:36:12 dnsmasq[71314]: reply pod-29.zendesk.com is 216.198.17.62
+May  9 02:36:12 dnsmasq[71314]: reply pod-29.zendesk.com is 216.198.17.61
+May  9 02:36:12 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:12 dnsmasq[71314]: reply pod-29.zendesk.com is NODATA-IPv6
+May  9 02:36:12 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:12 dnsmasq[71314]: reply pod-29.zendesk.com is NODATA
+May  9 02:36:19 dnsmasq[71314]: query[AAAA] youtubei.googleapis.com from 192.168.1.116
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 2607:f8b0:4005:803::200a
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 2607:f8b0:4005:811::200a
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 2607:f8b0:4005:813::200a
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 2607:f8b0:4005:814::200a
+May  9 02:36:19 dnsmasq[71314]: forwarded youtubei.googleapis.com to 127.0.0.1#5335
+May  9 02:36:19 dnsmasq[71314]: query[A] youtubei.googleapis.com from 192.168.1.116
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 142.250.191.42
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 142.250.191.74
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 142.251.46.170
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 142.251.46.202
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 172.217.164.106
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 142.250.72.202
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 142.250.189.170
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 142.250.189.202
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 142.251.32.42
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 142.251.46.234
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 142.251.214.138
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 172.217.12.106
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 142.250.188.10
+May  9 02:36:19 dnsmasq[71314]: cached-stale youtubei.googleapis.com is 142.250.189.234
+May  9 02:36:19 dnsmasq[71314]: forwarded youtubei.googleapis.com to 127.0.0.1#5335
+May  9 02:36:19 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 142.250.72.202
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 142.250.189.170
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 142.250.189.202
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 142.251.32.42
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 142.251.46.234
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 142.251.214.138
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 172.217.12.106
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 142.250.188.10
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 142.250.189.234
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 142.250.191.42
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 142.250.191.74
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 142.251.46.170
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 142.251.46.202
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 172.217.164.106
+May  9 02:36:19 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 2607:f8b0:4005:810::200a
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 2607:f8b0:4005:806::200a
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 2607:f8b0:4005:80e::200a
+May  9 02:36:19 dnsmasq[71314]: reply youtubei.googleapis.com is 2607:f8b0:4005:80f::200a
+May  9 02:36:25 dnsmasq[71314]: query[PTR] lb._dns-sd._udp.112.31.87.10.in-addr.arpa from 10.100.0.4
+May  9 02:36:25 dnsmasq[71314]: forwarded lb._dns-sd._udp.112.31.87.10.in-addr.arpa to 127.0.0.1#5335
+May  9 02:36:25 dnsmasq[71314]: query[PTR] lb._dns-sd._udp.4.0.100.10.in-addr.arpa from 10.100.0.4
+May  9 02:36:25 dnsmasq[71314]: forwarded lb._dns-sd._udp.4.0.100.10.in-addr.arpa to 127.0.0.1#5335
+May  9 02:36:25 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:25 dnsmasq[71314]: reply lb._dns-sd._udp.112.31.87.10.in-addr.arpa is NXDOMAIN
+May  9 02:36:25 dnsmasq[71314]: query[PTR] lb._dns-sd._udp.0.0.168.192.in-addr.arpa from 10.100.0.4
+May  9 02:36:25 dnsmasq[71314]: forwarded lb._dns-sd._udp.0.0.168.192.in-addr.arpa to 127.0.0.1#5335
+May  9 02:36:25 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:25 dnsmasq[71314]: reply lb._dns-sd._udp.0.0.168.192.in-addr.arpa is NXDOMAIN
+May  9 02:36:25 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:25 dnsmasq[71314]: reply lb._dns-sd._udp.4.0.100.10.in-addr.arpa is NXDOMAIN
+May  9 02:36:27 dnsmasq[71314]: query[A] rs.grafana.com from 192.168.1.10
+May  9 02:36:27 dnsmasq[71314]: cached-stale rs.grafana.com is 34.120.177.193
+May  9 02:36:27 dnsmasq[71314]: forwarded rs.grafana.com to 127.0.0.1#5335
+May  9 02:36:27 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:27 dnsmasq[71314]: reply rs.grafana.com is 34.120.177.193
+May  9 02:36:27 dnsmasq[71314]: query[A] api-iam.intercom.io from 192.168.1.10
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 34.207.27.1
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 52.21.135.208
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 34.230.161.222
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 44.220.122.255
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 44.206.102.229
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 3.95.85.189
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 3.234.73.203
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 34.197.130.216
+May  9 02:36:27 dnsmasq[71314]: forwarded api-iam.intercom.io to 127.0.0.1#5335
+May  9 02:36:27 dnsmasq[71314]: query[AAAA] api-iam.intercom.io from 192.168.1.10
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is NODATA-IPv6
+May  9 02:36:27 dnsmasq[71314]: forwarded api-iam.intercom.io to 127.0.0.1#5335
+May  9 02:36:27 dnsmasq[71314]: query[A] api-iam.intercom.io from 192.168.1.10
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 34.197.130.216
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 34.207.27.1
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 52.21.135.208
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 34.230.161.222
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 44.220.122.255
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 44.206.102.229
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 3.95.85.189
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is 3.234.73.203
+May  9 02:36:27 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:27 dnsmasq[71314]: reply api-iam.intercom.io is 174.129.185.134
+May  9 02:36:27 dnsmasq[71314]: reply api-iam.intercom.io is 107.21.223.82
+May  9 02:36:27 dnsmasq[71314]: reply api-iam.intercom.io is 44.220.122.255
+May  9 02:36:27 dnsmasq[71314]: reply api-iam.intercom.io is 3.234.73.203
+May  9 02:36:27 dnsmasq[71314]: reply api-iam.intercom.io is 3.95.85.189
+May  9 02:36:27 dnsmasq[71314]: reply api-iam.intercom.io is 34.230.161.222
+May  9 02:36:27 dnsmasq[71314]: reply api-iam.intercom.io is 34.207.27.1
+May  9 02:36:27 dnsmasq[71314]: reply api-iam.intercom.io is 44.206.102.229
+May  9 02:36:27 dnsmasq[71314]: query[HTTPS] api-iam.intercom.io from 192.168.1.10
+May  9 02:36:27 dnsmasq[71314]: cached-stale api-iam.intercom.io is NODATA
+May  9 02:36:27 dnsmasq[71314]: forwarded api-iam.intercom.io to 127.0.0.1#5335
+May  9 02:36:27 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:27 dnsmasq[71314]: reply api-iam.intercom.io is NODATA
+May  9 02:36:27 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:27 dnsmasq[71314]: reply api-iam.intercom.io is NODATA-IPv6
+May  9 02:36:31 dnsmasq[71314]: query[AAAA] weather-data.apple.com.akadns.net from 192.168.1.10
+May  9 02:36:31 dnsmasq[71314]: cached-stale weather-data.apple.com.akadns.net is <CNAME>
+May  9 02:36:31 dnsmasq[71314]: cached weather-data.apple.com.akamaized.net is <CNAME>
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 2600:1406:d400::684f:33
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 2600:1406:d400::684f:8
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 2600:1406:d400::684f:9
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 2600:1406:d400::684f:38
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 2600:1406:d400::684f:32
+May  9 02:36:31 dnsmasq[71314]: forwarded weather-data.apple.com.akadns.net to 127.0.0.1#5335
+May  9 02:36:31 dnsmasq[71314]: query[A] weather-data.apple.com.akadns.net from 192.168.1.10
+May  9 02:36:31 dnsmasq[71314]: cached-stale weather-data.apple.com.akadns.net is <CNAME>
+May  9 02:36:31 dnsmasq[71314]: cached weather-data.apple.com.akamaized.net is <CNAME>
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.70
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.76
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.85
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.108
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.87
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.78
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.75
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.84
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.102
+May  9 02:36:31 dnsmasq[71314]: forwarded weather-data.apple.com.akadns.net to 127.0.0.1#5335
+May  9 02:36:31 dnsmasq[71314]: query[A] a2047.dscapi9.akamai.net from 192.168.1.10
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.102
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.70
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.76
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.85
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.108
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.87
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.78
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.75
+May  9 02:36:31 dnsmasq[71314]: cached-stale a2047.dscapi9.akamai.net is 96.16.55.84
+May  9 02:36:31 dnsmasq[71314]: forwarded a2047.dscapi9.akamai.net to 127.0.0.1#5335
+May  9 02:36:31 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.101
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.100
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.74
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.109
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.68
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.104
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.82
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.90
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.86
+May  9 02:36:31 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:31 dnsmasq[71314]: reply weather-data.apple.com.akadns.net is <CNAME>
+May  9 02:36:31 dnsmasq[71314]: reply weather-data.apple.com.akamaized.net is <CNAME>
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.68
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.104
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.82
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.90
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.86
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.101
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.100
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.74
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 96.16.55.109
+May  9 02:36:31 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:31 dnsmasq[71314]: reply weather-data.apple.com.akadns.net is <CNAME>
+May  9 02:36:31 dnsmasq[71314]: reply weather-data.apple.com.akamaized.net is <CNAME>
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 2600:1406:d400::684f:b
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 2600:1406:d400::684f:9
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 2600:1406:d400::684f:33
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 2600:1406:d400::684f:a
+May  9 02:36:31 dnsmasq[71314]: reply a2047.dscapi9.akamai.net is 2600:1406:d400::684f:8
+May  9 02:36:32 dnsmasq[71314]: query[AAAA] configuration.apple.com.akadns.net from 192.168.1.10
+May  9 02:36:32 dnsmasq[71314]: cached-stale configuration.apple.com.akadns.net is <CNAME>
+May  9 02:36:32 dnsmasq[71314]: cached configuration.apple.com.edgekey.net is <CNAME>
+May  9 02:36:32 dnsmasq[71314]: cached-stale e673.dsce9.akamaiedge.net is 2600:1406:3a00:495::2a1
+May  9 02:36:32 dnsmasq[71314]: cached-stale e673.dsce9.akamaiedge.net is 2600:1406:3a00:48a::2a1
+May  9 02:36:32 dnsmasq[71314]: cached-stale e673.dsce9.akamaiedge.net is 2600:1406:3a00:487::2a1
+May  9 02:36:32 dnsmasq[71314]: cached-stale e673.dsce9.akamaiedge.net is 2600:1406:3a00:485::2a1
+May  9 02:36:32 dnsmasq[71314]: cached-stale e673.dsce9.akamaiedge.net is 2600:1406:3a00:496::2a1
+May  9 02:36:32 dnsmasq[71314]: forwarded configuration.apple.com.akadns.net to 127.0.0.1#5335
+May  9 02:36:32 dnsmasq[71314]: query[A] configuration.apple.com.akadns.net from 192.168.1.10
+May  9 02:36:32 dnsmasq[71314]: cached-stale configuration.apple.com.akadns.net is <CNAME>
+May  9 02:36:32 dnsmasq[71314]: cached configuration.apple.com.edgekey.net is <CNAME>
+May  9 02:36:32 dnsmasq[71314]: cached-stale e673.dsce9.akamaiedge.net is 104.107.104.29
+May  9 02:36:32 dnsmasq[71314]: forwarded configuration.apple.com.akadns.net to 127.0.0.1#5335
+May  9 02:36:32 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:32 dnsmasq[71314]: reply configuration.apple.com.akadns.net is <CNAME>
+May  9 02:36:32 dnsmasq[71314]: reply configuration.apple.com.edgekey.net is <CNAME>
+May  9 02:36:32 dnsmasq[71314]: reply e673.dsce9.akamaiedge.net is 104.107.104.29
+May  9 02:36:32 dnsmasq[71314]: query[AAAA] sylvan.apple.com from 192.168.1.10
+May  9 02:36:32 dnsmasq[71314]: forwarded sylvan.apple.com to 127.0.0.1#5335
+May  9 02:36:32 dnsmasq[71314]: query[A] sylvan.apple.com from 192.168.1.10
+May  9 02:36:32 dnsmasq[71314]: forwarded sylvan.apple.com to 127.0.0.1#5335
+May  9 02:36:32 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:32 dnsmasq[71314]: reply configuration.apple.com.akadns.net is <CNAME>
+May  9 02:36:32 dnsmasq[71314]: reply configuration.apple.com.edgekey.net is <CNAME>
+May  9 02:36:32 dnsmasq[71314]: reply e673.dsce9.akamaiedge.net is 2600:1406:3a00:481::2a1
+May  9 02:36:32 dnsmasq[71314]: reply e673.dsce9.akamaiedge.net is 2600:1406:3a00:495::2a1
+May  9 02:36:32 dnsmasq[71314]: reply e673.dsce9.akamaiedge.net is 2600:1406:3a00:497::2a1
+May  9 02:36:32 dnsmasq[71314]: reply e673.dsce9.akamaiedge.net is 2600:1406:3a00:48a::2a1
+May  9 02:36:32 dnsmasq[71314]: reply e673.dsce9.akamaiedge.net is 2600:1406:3a00:48d::2a1
+May  9 02:36:32 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:32 dnsmasq[71314]: reply sylvan.apple.com is <CNAME>
+May  9 02:36:32 dnsmasq[71314]: reply sylvan.apple.com.akadns.net is <CNAME>
+May  9 02:36:32 dnsmasq[71314]: reply sylvan.g.aaplimg.com is 17.253.17.207
+May  9 02:36:32 dnsmasq[71314]: reply sylvan.g.aaplimg.com is 17.253.17.203
+May  9 02:36:32 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:32 dnsmasq[71314]: reply sylvan.apple.com is <CNAME>
+May  9 02:36:32 dnsmasq[71314]: reply sylvan.apple.com.akadns.net is <CNAME>
+May  9 02:36:32 dnsmasq[71314]: reply sylvan.g.aaplimg.com is 2620:149:a00:f000::5
+May  9 02:36:32 dnsmasq[71314]: reply sylvan.g.aaplimg.com is 2620:149:a00:f100::6
+May  9 02:36:32 dnsmasq[71314]: query[HTTPS] sylvan.g.aaplimg.com from 192.168.1.10
+May  9 02:36:32 dnsmasq[71314]: forwarded sylvan.g.aaplimg.com to 127.0.0.1#5335
+May  9 02:36:32 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:32 dnsmasq[71314]: reply sylvan.g.aaplimg.com is NODATA
+May  9 02:36:32 dnsmasq[71314]: query[A] scribe.logs.roku.com from fd67:2040:63dc:0:95a5:aec4:1af4:b48b
+May  9 02:36:32 dnsmasq[71314]: gravity blocked scribe.logs.roku.com is 0.0.0.0
+May  9 02:36:32 dnsmasq[71314]: query[A] scribe.logs.roku.com from 192.168.1.205
+May  9 02:36:32 dnsmasq[71314]: gravity blocked scribe.logs.roku.com is 0.0.0.0
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] apple.com from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale apple.com is 2620:149:af0::10
+May  9 02:36:33 dnsmasq[71314]: forwarded apple.com to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[A] apple.com from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale apple.com is 17.253.144.10
+May  9 02:36:33 dnsmasq[71314]: forwarded apple.com to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] api.apple-cloudkit.fe2.apple-dns.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale api.apple-cloudkit.fe2.apple-dns.net is NODATA-IPv6
+May  9 02:36:33 dnsmasq[71314]: forwarded api.apple-cloudkit.fe2.apple-dns.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[A] api.apple-cloudkit.fe2.apple-dns.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale api.apple-cloudkit.fe2.apple-dns.net is 17.248.192.1
+May  9 02:36:33 dnsmasq[71314]: cached-stale api.apple-cloudkit.fe2.apple-dns.net is 17.248.192.2
+May  9 02:36:33 dnsmasq[71314]: cached-stale api.apple-cloudkit.fe2.apple-dns.net is 17.248.192.3
+May  9 02:36:33 dnsmasq[71314]: cached-stale api.apple-cloudkit.fe2.apple-dns.net is 17.248.192.4
+May  9 02:36:33 dnsmasq[71314]: forwarded api.apple-cloudkit.fe2.apple-dns.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] e6858.dscx.akamaiedge.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale e6858.dscx.akamaiedge.net is 2600:1406:3a00:28b::1aca
+May  9 02:36:33 dnsmasq[71314]: cached-stale e6858.dscx.akamaiedge.net is 2600:1406:3a00:28d::1aca
+May  9 02:36:33 dnsmasq[71314]: cached-stale e6858.dscx.akamaiedge.net is 2600:1406:3a00:286::1aca
+May  9 02:36:33 dnsmasq[71314]: forwarded e6858.dscx.akamaiedge.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply apple.com is 2620:149:af0::10
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply apple.com is 17.253.144.10
+May  9 02:36:33 dnsmasq[71314]: query[A] e6858.dscx.akamaiedge.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale e6858.dscx.akamaiedge.net is 104.99.49.26
+May  9 02:36:33 dnsmasq[71314]: forwarded e6858.dscx.akamaiedge.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] morla.okavengo.dynv6.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale morla.okavengo.dynv6.net is 2601:643:8200:411:ba27:ebff:fe9c:524
+May  9 02:36:33 dnsmasq[71314]: forwarded morla.okavengo.dynv6.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[A] morla.okavengo.dynv6.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale morla.okavengo.dynv6.net is NODATA-IPv4
+May  9 02:36:33 dnsmasq[71314]: forwarded morla.okavengo.dynv6.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] 1.courier-sandbox-push-apple.com.akadns.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale 1.courier-sandbox-push-apple.com.akadns.net is <CNAME>
+May  9 02:36:33 dnsmasq[71314]: cached-stale us-sandbox-courier-4.push-apple.com.akadns.net is NODATA-IPv6
+May  9 02:36:33 dnsmasq[71314]: forwarded 1.courier-sandbox-push-apple.com.akadns.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[A] 1.courier-sandbox-push-apple.com.akadns.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale 1.courier-sandbox-push-apple.com.akadns.net is <CNAME>
+May  9 02:36:33 dnsmasq[71314]: cached-stale us-sandbox-courier-4.push-apple.com.akadns.net is 17.188.178.156
+May  9 02:36:33 dnsmasq[71314]: cached-stale us-sandbox-courier-4.push-apple.com.akadns.net is 17.188.143.222
+May  9 02:36:33 dnsmasq[71314]: cached-stale us-sandbox-courier-4.push-apple.com.akadns.net is 17.188.178.188
+May  9 02:36:33 dnsmasq[71314]: cached-stale us-sandbox-courier-4.push-apple.com.akadns.net is 17.188.178.220
+May  9 02:36:33 dnsmasq[71314]: cached-stale us-sandbox-courier-4.push-apple.com.akadns.net is 17.188.178.92
+May  9 02:36:33 dnsmasq[71314]: cached-stale us-sandbox-courier-4.push-apple.com.akadns.net is 17.188.178.124
+May  9 02:36:33 dnsmasq[71314]: forwarded 1.courier-sandbox-push-apple.com.akadns.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] 1.courier-push-apple.com.akadns.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale 1.courier-push-apple.com.akadns.net is <CNAME>
+May  9 02:36:33 dnsmasq[71314]: cached-stale us-sw-courier-4.push-apple.com.akadns.net is NODATA-IPv6
+May  9 02:36:33 dnsmasq[71314]: forwarded 1.courier-push-apple.com.akadns.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[A] 1.courier-push-apple.com.akadns.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale 1.courier-push-apple.com.akadns.net is <CNAME>
+May  9 02:36:33 dnsmasq[71314]: cached-stale us-sw-courier-4.push-apple.com.akadns.net is 17.57.144.121
+May  9 02:36:33 dnsmasq[71314]: forwarded 1.courier-push-apple.com.akadns.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[HTTPS] mask.icloud.com from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: special domain mask.icloud.com is NXDOMAIN
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] mask.icloud.com from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: special domain mask.icloud.com is NXDOMAIN
+May  9 02:36:33 dnsmasq[71314]: query[A] mask.icloud.com from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: special domain mask.icloud.com is NXDOMAIN
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply api.apple-cloudkit.fe2.apple-dns.net is NODATA-IPv6
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] us-sandbox-courier-4.push-apple.com.akadns.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale us-sandbox-courier-4.push-apple.com.akadns.net is NODATA-IPv6
+May  9 02:36:33 dnsmasq[71314]: forwarded us-sandbox-courier-4.push-apple.com.akadns.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] us-sw-courier-4.push-apple.com.akadns.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale us-sw-courier-4.push-apple.com.akadns.net is NODATA-IPv6
+May  9 02:36:33 dnsmasq[71314]: forwarded us-sw-courier-4.push-apple.com.akadns.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] gateway.fe2.apple-dns.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale gateway.fe2.apple-dns.net is 2620:149:a43:280::5
+May  9 02:36:33 dnsmasq[71314]: cached-stale gateway.fe2.apple-dns.net is 2620:149:a43:280::2
+May  9 02:36:33 dnsmasq[71314]: cached-stale gateway.fe2.apple-dns.net is 2620:149:a43:280::8
+May  9 02:36:33 dnsmasq[71314]: cached-stale gateway.fe2.apple-dns.net is 2620:149:a43:280::7
+May  9 02:36:33 dnsmasq[71314]: forwarded gateway.fe2.apple-dns.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[A] gateway.fe2.apple-dns.net from 192.168.1.10
+May  9 02:36:33 dnsmasq[71314]: cached-stale gateway.fe2.apple-dns.net is 17.248.192.2
+May  9 02:36:33 dnsmasq[71314]: cached-stale gateway.fe2.apple-dns.net is 17.248.192.4
+May  9 02:36:33 dnsmasq[71314]: cached-stale gateway.fe2.apple-dns.net is 17.248.192.3
+May  9 02:36:33 dnsmasq[71314]: cached-stale gateway.fe2.apple-dns.net is 17.248.192.1
+May  9 02:36:33 dnsmasq[71314]: forwarded gateway.fe2.apple-dns.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply api.apple-cloudkit.fe2.apple-dns.net is 17.248.192.3
+May  9 02:36:33 dnsmasq[71314]: reply api.apple-cloudkit.fe2.apple-dns.net is 17.248.192.2
+May  9 02:36:33 dnsmasq[71314]: reply api.apple-cloudkit.fe2.apple-dns.net is 17.248.192.4
+May  9 02:36:33 dnsmasq[71314]: reply api.apple-cloudkit.fe2.apple-dns.net is 17.248.192.1
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply e6858.dscx.akamaiedge.net is 104.99.49.26
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply gateway.fe2.apple-dns.net is 2620:149:a43:280::8
+May  9 02:36:33 dnsmasq[71314]: reply gateway.fe2.apple-dns.net is 2620:149:a43:280::5
+May  9 02:36:33 dnsmasq[71314]: reply gateway.fe2.apple-dns.net is 2620:149:a43:280::2
+May  9 02:36:33 dnsmasq[71314]: reply gateway.fe2.apple-dns.net is 2620:149:a43:280::7
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply gateway.fe2.apple-dns.net is 17.248.192.3
+May  9 02:36:33 dnsmasq[71314]: reply gateway.fe2.apple-dns.net is 17.248.192.4
+May  9 02:36:33 dnsmasq[71314]: reply gateway.fe2.apple-dns.net is 17.248.192.2
+May  9 02:36:33 dnsmasq[71314]: reply gateway.fe2.apple-dns.net is 17.248.192.1
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply us-sw-courier-4.push-apple.com.akadns.net is NODATA-IPv6
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply 1.courier-sandbox-push-apple.com.akadns.net is <CNAME>
+May  9 02:36:33 dnsmasq[71314]: reply us-sandbox-courier-4.push-apple.com.akadns.net is 17.188.178.124
+May  9 02:36:33 dnsmasq[71314]: reply us-sandbox-courier-4.push-apple.com.akadns.net is 17.188.178.156
+May  9 02:36:33 dnsmasq[71314]: reply us-sandbox-courier-4.push-apple.com.akadns.net is 17.188.178.188
+May  9 02:36:33 dnsmasq[71314]: reply us-sandbox-courier-4.push-apple.com.akadns.net is 17.188.178.220
+May  9 02:36:33 dnsmasq[71314]: reply us-sandbox-courier-4.push-apple.com.akadns.net is 17.188.178.92
+May  9 02:36:33 dnsmasq[71314]: reply us-sandbox-courier-4.push-apple.com.akadns.net is 17.188.143.222
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply 1.courier-push-apple.com.akadns.net is <CNAME>
+May  9 02:36:33 dnsmasq[71314]: reply us-sw-courier-4.push-apple.com.akadns.net is 17.57.144.27
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply e6858.dscx.akamaiedge.net is 2600:1406:3a00:28d::1aca
+May  9 02:36:33 dnsmasq[71314]: reply e6858.dscx.akamaiedge.net is 2600:1406:3a00:286::1aca
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply 1.courier-sandbox-push-apple.com.akadns.net is <CNAME>
+May  9 02:36:33 dnsmasq[71314]: reply us-sandbox-courier-4.push-apple.com.akadns.net is NODATA-IPv6
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply 1.courier-push-apple.com.akadns.net is <CNAME>
+May  9 02:36:33 dnsmasq[71314]: reply us-sw-courier-4.push-apple.com.akadns.net is NODATA-IPv6
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply us-sandbox-courier-4.push-apple.com.akadns.net is NODATA-IPv6
+May  9 02:36:33 dnsmasq[71314]: query[A] img.pushflow.net from fd08:4711::5
+May  9 02:36:33 dnsmasq[71314]: cached img.pushflow.net is 104.21.233.163
+May  9 02:36:33 dnsmasq[71314]: cached img.pushflow.net is 104.21.233.164
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] img.pushflow.net from fd08:4711::5
+May  9 02:36:33 dnsmasq[71314]: cached img.pushflow.net is 2606:4700:3038::6815:e9a3
+May  9 02:36:33 dnsmasq[71314]: cached img.pushflow.net is 2606:4700:3038::6815:e9a4
+May  9 02:36:33 dnsmasq[71314]: query[A] img.pushflow.net from 10.100.0.5
+May  9 02:36:33 dnsmasq[71314]: cached img.pushflow.net is 104.21.233.164
+May  9 02:36:33 dnsmasq[71314]: cached img.pushflow.net is 104.21.233.163
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] img.pushflow.net from 10.100.0.5
+May  9 02:36:33 dnsmasq[71314]: cached img.pushflow.net is 2606:4700:3038::6815:e9a4
+May  9 02:36:33 dnsmasq[71314]: cached img.pushflow.net is 2606:4700:3038::6815:e9a3
+May  9 02:36:33 dnsmasq[71314]: dnssec-query[DS] dynv6.net to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: reply dynv6.net is no DS
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply morla.okavengo.dynv6.net is NODATA-IPv4
+May  9 02:36:33 dnsmasq[71314]: query[A] api.pushflow.org from fd08:4711::5
+May  9 02:36:33 dnsmasq[71314]: cached-stale api.pushflow.org is 104.21.10.233
+May  9 02:36:33 dnsmasq[71314]: cached-stale api.pushflow.org is 172.67.164.204
+May  9 02:36:33 dnsmasq[71314]: forwarded api.pushflow.org to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] api.pushflow.org from fd08:4711::5
+May  9 02:36:33 dnsmasq[71314]: cached-stale api.pushflow.org is 2606:4700:3037::6815:ae9
+May  9 02:36:33 dnsmasq[71314]: cached-stale api.pushflow.org is 2606:4700:3030::ac43:a4cc
+May  9 02:36:33 dnsmasq[71314]: forwarded api.pushflow.org to 127.0.0.1#5335
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply api.pushflow.org is 104.21.10.233
+May  9 02:36:33 dnsmasq[71314]: reply api.pushflow.org is 172.67.164.204
+May  9 02:36:33 dnsmasq[71314]: query[AAAA] api.pushflow.org from 10.100.0.5
+May  9 02:36:33 dnsmasq[71314]: cached-stale api.pushflow.org is 2606:4700:3030::ac43:a4cc
+May  9 02:36:33 dnsmasq[71314]: cached-stale api.pushflow.org is 2606:4700:3037::6815:ae9
+May  9 02:36:33 dnsmasq[71314]: query[A] api.pushflow.org from 10.100.0.5
+May  9 02:36:33 dnsmasq[71314]: cached api.pushflow.org is 104.21.10.233
+May  9 02:36:33 dnsmasq[71314]: cached api.pushflow.org is 172.67.164.204
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply api.pushflow.org is 2606:4700:3037::6815:ae9
+May  9 02:36:33 dnsmasq[71314]: reply api.pushflow.org is 2606:4700:3030::ac43:a4cc
+May  9 02:36:33 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:33 dnsmasq[71314]: reply morla.okavengo.dynv6.net is 2601:643:8200:411:ba27:ebff:fe9c:524
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] adtago.s3.amazonaws.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adtago.s3.amazonaws.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] adtago.s3.amazonaws.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adtago.s3.amazonaws.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] adtago.s3.amazonaws.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adtago.s3.amazonaws.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[A] s3-w.us-east-1.amazonaws.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-w.us-east-1.amazonaws.com is 3.5.29.101
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-w.us-east-1.amazonaws.com is 52.217.90.228
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-w.us-east-1.amazonaws.com is 52.216.142.132
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-w.us-east-1.amazonaws.com is 52.216.250.252
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-w.us-east-1.amazonaws.com is 52.216.27.132
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-w.us-east-1.amazonaws.com is 54.231.204.153
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-w.us-east-1.amazonaws.com is 52.217.101.28
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-w.us-east-1.amazonaws.com is 52.216.136.59
+May  9 02:36:38 dnsmasq[71314]: forwarded s3-w.us-east-1.amazonaws.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[A] s3-us-west-2-w.amazonaws.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-us-west-2-w.amazonaws.com is 52.218.238.11
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-us-west-2-w.amazonaws.com is 52.92.152.33
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-us-west-2-w.amazonaws.com is 52.92.212.145
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-us-west-2-w.amazonaws.com is 52.218.242.195
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-us-west-2-w.amazonaws.com is 52.218.216.162
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-us-west-2-w.amazonaws.com is 52.218.232.154
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-us-west-2-w.amazonaws.com is 52.218.168.187
+May  9 02:36:38 dnsmasq[71314]: cached-stale s3-us-west-2-w.amazonaws.com is 52.92.236.81
+May  9 02:36:38 dnsmasq[71314]: forwarded s3-us-west-2-w.amazonaws.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] advice-ads.s3.amazonaws.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked advice-ads.s3.amazonaws.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] advice-ads.s3.amazonaws.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked advice-ads.s3.amazonaws.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] advice-ads.s3.amazonaws.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked advice-ads.s3.amazonaws.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] pagead2.googlesyndication.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked pagead2.googlesyndication.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] pagead2.googlesyndication.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked pagead2.googlesyndication.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] pagead2.googlesyndication.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked pagead2.googlesyndication.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] adservice.google.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adservice.google.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] adservice.google.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adservice.google.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] adservice.google.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adservice.google.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] pagead2.googleadservices.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked pagead2.googleadservices.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] pagead2.googleadservices.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked pagead2.googleadservices.com is ::
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply s3-us-west-2-w.amazonaws.com is 52.218.180.115
+May  9 02:36:38 dnsmasq[71314]: reply s3-us-west-2-w.amazonaws.com is 52.92.230.129
+May  9 02:36:38 dnsmasq[71314]: reply s3-us-west-2-w.amazonaws.com is 52.92.241.145
+May  9 02:36:38 dnsmasq[71314]: reply s3-us-west-2-w.amazonaws.com is 52.218.224.74
+May  9 02:36:38 dnsmasq[71314]: reply s3-us-west-2-w.amazonaws.com is 52.92.232.25
+May  9 02:36:38 dnsmasq[71314]: reply s3-us-west-2-w.amazonaws.com is 52.92.194.97
+May  9 02:36:38 dnsmasq[71314]: reply s3-us-west-2-w.amazonaws.com is 52.92.147.113
+May  9 02:36:38 dnsmasq[71314]: reply s3-us-west-2-w.amazonaws.com is 52.92.209.17
+May  9 02:36:38 dnsmasq[71314]: query[A] pagead2.googleadservices.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked pagead2.googleadservices.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply s3-w.us-east-1.amazonaws.com is 52.217.90.132
+May  9 02:36:38 dnsmasq[71314]: reply s3-w.us-east-1.amazonaws.com is 52.217.191.25
+May  9 02:36:38 dnsmasq[71314]: reply s3-w.us-east-1.amazonaws.com is 3.5.29.44
+May  9 02:36:38 dnsmasq[71314]: reply s3-w.us-east-1.amazonaws.com is 52.217.202.201
+May  9 02:36:38 dnsmasq[71314]: reply s3-w.us-east-1.amazonaws.com is 52.217.116.25
+May  9 02:36:38 dnsmasq[71314]: reply s3-w.us-east-1.amazonaws.com is 3.5.25.38
+May  9 02:36:38 dnsmasq[71314]: reply s3-w.us-east-1.amazonaws.com is 3.5.22.221
+May  9 02:36:38 dnsmasq[71314]: reply s3-w.us-east-1.amazonaws.com is 52.216.251.180
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] stats.g.doubleclick.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked stats.g.doubleclick.net is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] stats.g.doubleclick.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked stats.g.doubleclick.net is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] stats.g.doubleclick.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked stats.g.doubleclick.net is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] ad.doubleclick.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked ad.doubleclick.net is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] ad.doubleclick.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked ad.doubleclick.net is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] ad.doubleclick.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked ad.doubleclick.net is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] static.doubleclick.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked static.doubleclick.net is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] static.doubleclick.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked static.doubleclick.net is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] static.doubleclick.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked static.doubleclick.net is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] m.doubleclick.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked m.doubleclick.net is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] m.doubleclick.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked m.doubleclick.net is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] m.doubleclick.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked m.doubleclick.net is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] ads30.adcolony.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked ads30.adcolony.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] ads30.adcolony.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked ads30.adcolony.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] ads30.adcolony.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked ads30.adcolony.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] adc3-launch.adcolony.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adc3-launch.adcolony.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] adc3-launch.adcolony.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adc3-launch.adcolony.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] adc3-launch.adcolony.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adc3-launch.adcolony.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] events3alt.adcolony.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked events3alt.adcolony.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] events3alt.adcolony.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked events3alt.adcolony.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] events3alt.adcolony.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked events3alt.adcolony.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] wd.adcolony.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked wd.adcolony.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] wd.adcolony.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked wd.adcolony.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] wd.adcolony.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked wd.adcolony.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] static.media.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked static.media.net is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] static.media.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked static.media.net is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] static.media.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked static.media.net is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] media.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked media.net is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] media.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked media.net is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] media.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked media.net is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] adservetx.media.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adservetx.media.net is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] adservetx.media.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adservetx.media.net is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] adservetx.media.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adservetx.media.net is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] analytics.google.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked analytics.google.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] analytics.google.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked analytics.google.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] analytics.google.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked analytics.google.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] click.googleanalytics.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked click.googleanalytics.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] click.googleanalytics.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked click.googleanalytics.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] click.googleanalytics.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked click.googleanalytics.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] google-analytics.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked google-analytics.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] google-analytics.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked google-analytics.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] google-analytics.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked google-analytics.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] ssl.google-analytics.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked ssl.google-analytics.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] ssl.google-analytics.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked ssl.google-analytics.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] ssl.google-analytics.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked ssl.google-analytics.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] identify.hotjar.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale identify.hotjar.com is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: cached-stale identify.svc.hotjarians.net is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: cached identify.ew1-live-1.hotjarians.net is NODATA
+May  9 02:36:38 dnsmasq[71314]: forwarded identify.hotjar.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] identify.hotjar.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale identify.hotjar.com is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: cached-stale identify.svc.hotjarians.net is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: cached identify.ew1-live-1.hotjarians.net is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: forwarded identify.hotjar.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[A] identify.hotjar.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale identify.hotjar.com is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: cached-stale identify.svc.hotjarians.net is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: cached-stale identify.ew1-live-1.hotjarians.net is 52.210.23.165
+May  9 02:36:38 dnsmasq[71314]: cached-stale identify.ew1-live-1.hotjarians.net is 52.16.243.203
+May  9 02:36:38 dnsmasq[71314]: cached-stale identify.ew1-live-1.hotjarians.net is 34.255.27.131
+May  9 02:36:38 dnsmasq[71314]: forwarded identify.hotjar.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] script.hotjar.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked script.hotjar.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] script.hotjar.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked script.hotjar.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] script.hotjar.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked script.hotjar.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] pacman-events-live.live.eks.hotjar.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale pacman-events-live.live.eks.hotjar.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: forwarded pacman-events-live.live.eks.hotjar.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] pacman-events-live.live.eks.hotjar.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale pacman-events-live.live.eks.hotjar.com is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: forwarded pacman-events-live.live.eks.hotjar.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[A] pacman-events-live.live.eks.hotjar.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale pacman-events-live.live.eks.hotjar.com is 34.252.62.38
+May  9 02:36:38 dnsmasq[71314]: cached-stale pacman-events-live.live.eks.hotjar.com is 52.210.135.107
+May  9 02:36:38 dnsmasq[71314]: cached-stale pacman-events-live.live.eks.hotjar.com is 34.253.149.193
+May  9 02:36:38 dnsmasq[71314]: forwarded pacman-events-live.live.eks.hotjar.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] mouseflow.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked mouseflow.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] mouseflow.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked mouseflow.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] mouseflow.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked mouseflow.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] cdn.mouseflow.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked cdn.mouseflow.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] cdn.mouseflow.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked cdn.mouseflow.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] cdn.mouseflow.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked cdn.mouseflow.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] o2.mouseflow.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked o2.mouseflow.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] o2.mouseflow.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked o2.mouseflow.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] o2.mouseflow.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked o2.mouseflow.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] claritybt.freshmarketer.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale claritybt.freshmarketer.com is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: cached-stale app-euc.freshmarketer.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: forwarded claritybt.freshmarketer.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] claritybt.freshmarketer.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale claritybt.freshmarketer.com is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: cached-stale app-euc.freshmarketer.com is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: forwarded claritybt.freshmarketer.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[A] upload.luckyorange.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked upload.luckyorange.net is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] cs.luckyorange.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked cs.luckyorange.net is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] cs.luckyorange.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked cs.luckyorange.net is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] cs.luckyorange.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked cs.luckyorange.net is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] settings.luckyorange.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked settings.luckyorange.net is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] settings.luckyorange.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked settings.luckyorange.net is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] settings.luckyorange.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked settings.luckyorange.net is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply pacman-events-live.live.eks.hotjar.com is 34.252.62.38
+May  9 02:36:38 dnsmasq[71314]: reply pacman-events-live.live.eks.hotjar.com is 34.253.149.193
+May  9 02:36:38 dnsmasq[71314]: reply pacman-events-live.live.eks.hotjar.com is 52.210.135.107
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] stats.wp.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked stats.wp.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] stats.wp.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked stats.wp.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] stats.wp.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked stats.wp.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] sdkconfig.ad.xiaomi.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked sdkconfig.ad.xiaomi.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] sdkconfig.ad.xiaomi.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked sdkconfig.ad.xiaomi.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] sdkconfig.ad.xiaomi.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked sdkconfig.ad.xiaomi.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] sdkconfig.ad.intl.xiaomi.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked sdkconfig.ad.intl.xiaomi.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply identify.hotjar.com is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: reply identify.svc.hotjarians.net is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: reply identify.ew1-live-1.hotjarians.net is NODATA
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply identify.hotjar.com is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: reply identify.svc.hotjarians.net is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: reply identify.ew1-live-1.hotjarians.net is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] sdkconfig.ad.intl.xiaomi.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked sdkconfig.ad.intl.xiaomi.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] sdkconfig.ad.intl.xiaomi.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked sdkconfig.ad.intl.xiaomi.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] tracking.rus.miui.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked tracking.rus.miui.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] tracking.rus.miui.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked tracking.rus.miui.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] tracking.rus.miui.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked tracking.rus.miui.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] adsfs.oppomobile.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adsfs.oppomobile.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] adsfs.oppomobile.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adsfs.oppomobile.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] adsfs.oppomobile.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adsfs.oppomobile.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] adx.ads.oppomobile.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adx.ads.oppomobile.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] adx.ads.oppomobile.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adx.ads.oppomobile.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] adx.ads.oppomobile.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked adx.ads.oppomobile.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply pacman-events-live.live.eks.hotjar.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] ck.ads.oppomobile.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale ck.ads.oppomobile.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: forwarded ck.ads.oppomobile.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] ck.ads.oppomobile.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale ck.ads.oppomobile.com is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: forwarded ck.ads.oppomobile.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] data.ads.oppomobile.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked data.ads.oppomobile.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] data.ads.oppomobile.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked data.ads.oppomobile.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] data.ads.oppomobile.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked data.ads.oppomobile.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] smetrics.samsung.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked smetrics.samsung.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] smetrics.samsung.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked smetrics.samsung.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] smetrics.samsung.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked smetrics.samsung.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] nmetrics.samsung.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked nmetrics.samsung.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] nmetrics.samsung.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked nmetrics.samsung.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] nmetrics.samsung.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked nmetrics.samsung.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] samsung-com.112.2o7.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale samsung-com.112.2o7.net is NODATA
+May  9 02:36:38 dnsmasq[71314]: forwarded samsung-com.112.2o7.net to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply pacman-events-live.live.eks.hotjar.com is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] samsung-com.112.2o7.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale samsung-com.112.2o7.net is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: forwarded samsung-com.112.2o7.net to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[A] samsung-com.112.2o7.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale samsung-com.112.2o7.net is 63.140.36.51
+May  9 02:36:38 dnsmasq[71314]: cached-stale samsung-com.112.2o7.net is 63.140.36.145
+May  9 02:36:38 dnsmasq[71314]: cached-stale samsung-com.112.2o7.net is 63.140.37.206
+May  9 02:36:38 dnsmasq[71314]: cached-stale samsung-com.112.2o7.net is 63.140.37.126
+May  9 02:36:38 dnsmasq[71314]: forwarded samsung-com.112.2o7.net to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn is NODATA
+May  9 02:36:38 dnsmasq[71314]: forwarded analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply identify.hotjar.com is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: reply identify.svc.hotjarians.net is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: reply identify.ew1-live-1.hotjarians.net is 52.210.23.165
+May  9 02:36:38 dnsmasq[71314]: reply identify.ew1-live-1.hotjarians.net is 52.16.243.203
+May  9 02:36:38 dnsmasq[71314]: reply identify.ew1-live-1.hotjarians.net is 34.255.27.131
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: forwarded analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[A] analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn is 52.80.30.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn is 52.81.114.144
+May  9 02:36:38 dnsmasq[71314]: forwarded analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] iadsdk.apple.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked iadsdk.apple.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] iadsdk.apple.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked iadsdk.apple.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] iadsdk.apple.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked iadsdk.apple.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] metrics.icloud.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked metrics.icloud.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] metrics.icloud.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked metrics.icloud.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[A] metrics.icloud.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked metrics.icloud.com is 0.0.0.0
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] metrics.mzstatic.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked metrics.mzstatic.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] metrics.mzstatic.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: gravity blocked metrics.mzstatic.com is ::
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] mask.icloud.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: special domain mask.icloud.com is NXDOMAIN
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] mask.icloud.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: special domain mask.icloud.com is NXDOMAIN
+May  9 02:36:38 dnsmasq[71314]: query[A] mask.icloud.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: special domain mask.icloud.com is NXDOMAIN
+May  9 02:36:38 dnsmasq[71314]: query[HTTPS] app-euc.freshmarketer.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale app-euc.freshmarketer.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: forwarded app-euc.freshmarketer.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] app-euc.freshmarketer.com from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale app-euc.freshmarketer.com is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: forwarded app-euc.freshmarketer.com to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply claritybt.freshmarketer.com is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: reply app-euc.freshmarketer.com is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply claritybt.freshmarketer.com is <CNAME>
+May  9 02:36:38 dnsmasq[71314]: reply app-euc.freshmarketer.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply app-euc.freshmarketer.com is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply app-euc.freshmarketer.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: query[AAAA] a1744.dscw154.akamai.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale a1744.dscw154.akamai.net is 2600:1406:3a00:4::17c0:e448
+May  9 02:36:38 dnsmasq[71314]: cached-stale a1744.dscw154.akamai.net is 2600:1406:3a00:4::17c0:e450
+May  9 02:36:38 dnsmasq[71314]: forwarded a1744.dscw154.akamai.net to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: query[A] a1744.dscw154.akamai.net from 192.168.1.116
+May  9 02:36:38 dnsmasq[71314]: cached-stale a1744.dscw154.akamai.net is 23.192.228.149
+May  9 02:36:38 dnsmasq[71314]: cached-stale a1744.dscw154.akamai.net is 23.192.228.146
+May  9 02:36:38 dnsmasq[71314]: forwarded a1744.dscw154.akamai.net to 127.0.0.1#5335
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply samsung-com.112.2o7.net is 63.140.37.206
+May  9 02:36:38 dnsmasq[71314]: reply samsung-com.112.2o7.net is 63.140.37.126
+May  9 02:36:38 dnsmasq[71314]: reply samsung-com.112.2o7.net is 63.140.36.51
+May  9 02:36:38 dnsmasq[71314]: reply samsung-com.112.2o7.net is 63.140.36.145
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply samsung-com.112.2o7.net is NODATA
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply samsung-com.112.2o7.net is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply a1744.dscw154.akamai.net is 23.192.228.149
+May  9 02:36:38 dnsmasq[71314]: reply a1744.dscw154.akamai.net is 23.192.228.146
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply a1744.dscw154.akamai.net is 2600:1406:3a00:4::17c0:e448
+May  9 02:36:38 dnsmasq[71314]: reply a1744.dscw154.akamai.net is 2600:1406:3a00:4::17c0:e450
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn is 52.80.30.116
+May  9 02:36:38 dnsmasq[71314]: reply analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn is 52.81.114.144
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply ck.ads.oppomobile.com is NODATA
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply ck.ads.oppomobile.com is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn is NODATA-IPv6
+May  9 02:36:38 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:38 dnsmasq[71314]: reply analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[A] claritybt.freshmarketer.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached claritybt.freshmarketer.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: cached-stale app-euc.freshmarketer.com is 35.159.8.9
+May  9 02:36:39 dnsmasq[71314]: cached-stale app-euc.freshmarketer.com is 18.159.158.64
+May  9 02:36:39 dnsmasq[71314]: cached-stale app-euc.freshmarketer.com is 3.78.4.184
+May  9 02:36:39 dnsmasq[71314]: forwarded claritybt.freshmarketer.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] luckyorange.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked luckyorange.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] luckyorange.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked luckyorange.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] luckyorange.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked luckyorange.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] upload.luckyorange.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked upload.luckyorange.net is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] upload.luckyorange.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked upload.luckyorange.net is ::
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] notify.bugsnag.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked notify.bugsnag.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] notify.bugsnag.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked notify.bugsnag.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] notify.bugsnag.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked notify.bugsnag.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] sessions.bugsnag.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked sessions.bugsnag.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] sessions.bugsnag.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked sessions.bugsnag.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] sessions.bugsnag.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked sessions.bugsnag.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] pixel.facebook.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked pixel.facebook.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] pixel.facebook.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked pixel.facebook.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] pixel.facebook.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked pixel.facebook.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] an.facebook.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked an.facebook.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] an.facebook.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked an.facebook.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] an.facebook.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked an.facebook.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply claritybt.freshmarketer.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: reply app-euc.freshmarketer.com is 18.159.158.64
+May  9 02:36:39 dnsmasq[71314]: reply app-euc.freshmarketer.com is 3.78.4.184
+May  9 02:36:39 dnsmasq[71314]: reply app-euc.freshmarketer.com is 35.159.8.9
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] static.ads-twitter.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked static.ads-twitter.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] static.ads-twitter.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked static.ads-twitter.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] static.ads-twitter.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked static.ads-twitter.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] ads-api.twitter.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads-api.twitter.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] ads-api.twitter.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads-api.twitter.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] ads-api.twitter.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads-api.twitter.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] ads.linkedin.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.linkedin.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] ads.linkedin.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.linkedin.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] ads.linkedin.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.linkedin.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] analytics.pointdrive.linkedin.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.pointdrive.linkedin.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] analytics.pointdrive.linkedin.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.pointdrive.linkedin.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] analytics.pointdrive.linkedin.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.pointdrive.linkedin.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] ads.pinterest.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.pinterest.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] ads.pinterest.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.pinterest.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] ads.pinterest.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.pinterest.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] log.pinterest.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked log.pinterest.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] log.pinterest.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked log.pinterest.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] log.pinterest.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked log.pinterest.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] analytics.pinterest.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.pinterest.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] analytics.pinterest.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.pinterest.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] analytics.pinterest.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.pinterest.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] trk.pinterest.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked trk.pinterest.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] trk.pinterest.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked trk.pinterest.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] trk.pinterest.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked trk.pinterest.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] events.redditmedia.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked events.redditmedia.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] events.redditmedia.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked events.redditmedia.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] events.redditmedia.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked events.redditmedia.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] ads.youtube.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.youtube.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] ads.youtube.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.youtube.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] ads.youtube.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.youtube.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[A] e35058.api5.akamaiedge.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.api5.akamaiedge.net is 23.62.46.12
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.api5.akamaiedge.net is 23.62.46.7
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.api5.akamaiedge.net is 23.62.46.22
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.api5.akamaiedge.net is 23.62.46.18
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.api5.akamaiedge.net is 23.62.46.14
+May  9 02:36:39 dnsmasq[71314]: forwarded e35058.api5.akamaiedge.net to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] analytics.tiktok.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.tiktok.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] analytics.tiktok.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.tiktok.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] analytics.tiktok.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.tiktok.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[A] e35058.a.akamaiedge.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.a.akamaiedge.net is 23.216.149.141
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.a.akamaiedge.net is 23.216.149.144
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.a.akamaiedge.net is 23.216.149.138
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.a.akamaiedge.net is 23.216.149.139
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.a.akamaiedge.net is 23.216.149.134
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.a.akamaiedge.net is 23.216.149.152
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.a.akamaiedge.net is 23.216.149.149
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.a.akamaiedge.net is 23.216.149.151
+May  9 02:36:39 dnsmasq[71314]: cached-stale e35058.a.akamaiedge.net is 23.216.149.147
+May  9 02:36:39 dnsmasq[71314]: forwarded e35058.a.akamaiedge.net to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] business-api-tiktok-com-apix.bytewlb.akadns.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale business-api-tiktok-com-apix.bytewlb.akadns.net is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: cached a2047.api6.akamai.net is NODATA
+May  9 02:36:39 dnsmasq[71314]: forwarded business-api-tiktok-com-apix.bytewlb.akadns.net to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] business-api-tiktok-com-apix.bytewlb.akadns.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale business-api-tiktok-com-apix.bytewlb.akadns.net is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: forwarded business-api-tiktok-com-apix.bytewlb.akadns.net to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[A] business-api-tiktok-com-apix.bytewlb.akadns.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale business-api-tiktok-com-apix.bytewlb.akadns.net is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: cached-stale a2047.api6.akamai.net is 96.16.55.73
+May  9 02:36:39 dnsmasq[71314]: cached-stale a2047.api6.akamai.net is 96.16.55.98
+May  9 02:36:39 dnsmasq[71314]: cached-stale a2047.api6.akamai.net is 96.16.55.92
+May  9 02:36:39 dnsmasq[71314]: cached-stale a2047.api6.akamai.net is 96.16.55.80
+May  9 02:36:39 dnsmasq[71314]: cached-stale a2047.api6.akamai.net is 96.16.55.103
+May  9 02:36:39 dnsmasq[71314]: cached-stale a2047.api6.akamai.net is 96.16.55.105
+May  9 02:36:39 dnsmasq[71314]: cached-stale a2047.api6.akamai.net is 96.16.55.81
+May  9 02:36:39 dnsmasq[71314]: cached-stale a2047.api6.akamai.net is 96.16.55.94
+May  9 02:36:39 dnsmasq[71314]: cached-stale a2047.api6.akamai.net is 96.16.55.79
+May  9 02:36:39 dnsmasq[71314]: forwarded business-api-tiktok-com-apix.bytewlb.akadns.net to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] ads.tiktok.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.tiktok.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] ads.tiktok.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.tiktok.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] ads.tiktok.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.tiktok.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] log.byteoversea.com.ttdns2.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale log.byteoversea.com.ttdns2.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: cached log.byteoversea.com.edgekey.net is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: cached e11942.api5.akamaiedge.net is NODATA
+May  9 02:36:39 dnsmasq[71314]: forwarded log.byteoversea.com.ttdns2.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] log.byteoversea.com.ttdns2.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale log.byteoversea.com.ttdns2.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: cached log.byteoversea.com.edgekey.net is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: cached e11942.api5.akamaiedge.net is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: forwarded log.byteoversea.com.ttdns2.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[A] log.byteoversea.com.ttdns2.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale log.byteoversea.com.ttdns2.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: cached log.byteoversea.com.edgekey.net is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.13
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.11
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.19
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.20
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.10
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.17
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.15
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.25
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.21
+May  9 02:36:39 dnsmasq[71314]: forwarded log.byteoversea.com.ttdns2.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] ads.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.yahoo.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] ads.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.yahoo.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] ads.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked ads.yahoo.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] analytics.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.yahoo.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] analytics.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.yahoo.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] analytics.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.yahoo.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] geo.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked geo.yahoo.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] geo.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked geo.yahoo.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] geo.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked geo.yahoo.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] udc-ats.media.g03.yahoodns.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale udc-ats.media.g03.yahoodns.net is NODATA
+May  9 02:36:39 dnsmasq[71314]: forwarded udc-ats.media.g03.yahoodns.net to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] udc-ats.media.g03.yahoodns.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale udc-ats.media.g03.yahoodns.net is 2001:4998:24:707::3000
+May  9 02:36:39 dnsmasq[71314]: forwarded udc-ats.media.g03.yahoodns.net to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[A] udc-ats.media.g03.yahoodns.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale udc-ats.media.g03.yahoodns.net is 98.136.103.27
+May  9 02:36:39 dnsmasq[71314]: forwarded udc-ats.media.g03.yahoodns.net to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] udcm.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale udcm.yahoo.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: cached-stale udc-ats.media.g03.yahoodns.net is NODATA
+May  9 02:36:39 dnsmasq[71314]: forwarded udcm.yahoo.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] udcm.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale udcm.yahoo.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: cached-stale udc-ats.media.g03.yahoodns.net is 2001:4998:24:707::3000
+May  9 02:36:39 dnsmasq[71314]: forwarded udcm.yahoo.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[A] udcm.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale udcm.yahoo.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: cached-stale udc-ats.media.g03.yahoodns.net is 98.136.103.27
+May  9 02:36:39 dnsmasq[71314]: forwarded udcm.yahoo.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] analytics.query.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.query.yahoo.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] analytics.query.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.query.yahoo.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] analytics.query.yahoo.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked analytics.query.yahoo.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] metrics.data.hicloud.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale metrics.data.hicloud.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: forwarded metrics.data.hicloud.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] metrics2.data.hicloud.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale metrics2.data.hicloud.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: forwarded metrics2.data.hicloud.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] metrics2.data.hicloud.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale metrics2.data.hicloud.com is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: forwarded metrics2.data.hicloud.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[A] metrics2.data.hicloud.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale metrics2.data.hicloud.com is 80.158.38.48
+May  9 02:36:39 dnsmasq[71314]: cached-stale metrics2.data.hicloud.com is 80.158.2.190
+May  9 02:36:39 dnsmasq[71314]: forwarded metrics2.data.hicloud.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] grs.hicloud.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale grs.hicloud.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: forwarded grs.hicloud.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] grs.hicloud.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale grs.hicloud.com is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: forwarded grs.hicloud.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] logservice.hicloud.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale logservice.hicloud.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: forwarded logservice.hicloud.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] logservice.hicloud.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale logservice.hicloud.com is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: forwarded logservice.hicloud.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] logservice1.hicloud.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale logservice1.hicloud.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: forwarded logservice1.hicloud.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] logservice1.hicloud.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale logservice1.hicloud.com is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: forwarded logservice1.hicloud.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] logbak.hicloud.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale logbak.hicloud.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: forwarded logbak.hicloud.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] logbak.hicloud.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale logbak.hicloud.com is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: forwarded logbak.hicloud.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[A] logbak.hicloud.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale logbak.hicloud.com is 80.158.19.153
+May  9 02:36:39 dnsmasq[71314]: forwarded logbak.hicloud.com to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] click.oneplus.cn from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale click.oneplus.cn is NODATA
+May  9 02:36:39 dnsmasq[71314]: forwarded click.oneplus.cn to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] click.oneplus.cn from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale click.oneplus.cn is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: forwarded click.oneplus.cn to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply e35058.api5.akamaiedge.net is 23.62.46.26
+May  9 02:36:39 dnsmasq[71314]: reply e35058.api5.akamaiedge.net is 23.62.46.12
+May  9 02:36:39 dnsmasq[71314]: reply e35058.api5.akamaiedge.net is 23.62.46.22
+May  9 02:36:39 dnsmasq[71314]: reply e35058.api5.akamaiedge.net is 23.62.46.7
+May  9 02:36:39 dnsmasq[71314]: reply e35058.api5.akamaiedge.net is 23.62.46.18
+May  9 02:36:39 dnsmasq[71314]: reply e35058.api5.akamaiedge.net is 23.62.46.14
+May  9 02:36:39 dnsmasq[71314]: reply e35058.api5.akamaiedge.net is 23.62.46.24
+May  9 02:36:39 dnsmasq[71314]: reply e35058.api5.akamaiedge.net is 23.62.46.17
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] open.oneplus.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked open.oneplus.net is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] open.oneplus.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked open.oneplus.net is ::
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply udc-ats.media.g03.yahoodns.net is 98.136.103.27
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply udcm.yahoo.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: reply udc-ats.media.g03.yahoodns.net is 98.136.103.27
+May  9 02:36:39 dnsmasq[71314]: query[A] open.oneplus.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked open.oneplus.net is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] samsungads.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked samsungads.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] samsungads.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked samsungads.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] metrics.mzstatic.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked metrics.mzstatic.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply e35058.a.akamaiedge.net is 23.216.149.155
+May  9 02:36:39 dnsmasq[71314]: reply e35058.a.akamaiedge.net is 23.216.149.136
+May  9 02:36:39 dnsmasq[71314]: reply e35058.a.akamaiedge.net is 23.216.149.141
+May  9 02:36:39 dnsmasq[71314]: reply e35058.a.akamaiedge.net is 23.216.149.152
+May  9 02:36:39 dnsmasq[71314]: reply e35058.a.akamaiedge.net is 23.216.149.154
+May  9 02:36:39 dnsmasq[71314]: reply e35058.a.akamaiedge.net is 23.216.149.138
+May  9 02:36:39 dnsmasq[71314]: reply e35058.a.akamaiedge.net is 23.216.149.145
+May  9 02:36:39 dnsmasq[71314]: reply e35058.a.akamaiedge.net is 23.216.149.137
+May  9 02:36:39 dnsmasq[71314]: reply e35058.a.akamaiedge.net is 23.216.149.143
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] notes-analytics-events.apple.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked notes-analytics-events.apple.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] notes-analytics-events.apple.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked notes-analytics-events.apple.com is ::
+May  9 02:36:39 dnsmasq[71314]: query[A] notes-analytics-events.apple.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked notes-analytics-events.apple.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] hotjar.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked hotjar.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[AAAA] hotjar.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked hotjar.com is ::
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply udc-ats.media.g03.yahoodns.net is NODATA
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply udc-ats.media.g03.yahoodns.net is 2001:4998:24:707::3000
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply udcm.yahoo.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: reply udc-ats.media.g03.yahoodns.net is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[A] hotjar.com from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: gravity blocked hotjar.com is 0.0.0.0
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply udcm.yahoo.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: reply udc-ats.media.g03.yahoodns.net is 2001:4998:24:707::3000
+May  9 02:36:39 dnsmasq[71314]: query[HTTPS] a2047.api6.akamai.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached a2047.api6.akamai.net is NODATA
+May  9 02:36:39 dnsmasq[71314]: query[A] e11942.api5.akamaiedge.net from 192.168.1.116
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.21
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.13
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.11
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.19
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.20
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.10
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.17
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.15
+May  9 02:36:39 dnsmasq[71314]: cached-stale e11942.api5.akamaiedge.net is 23.62.46.25
+May  9 02:36:39 dnsmasq[71314]: forwarded e11942.api5.akamaiedge.net to 127.0.0.1#5335
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply business-api-tiktok-com-apix.bytewlb.akadns.net is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: reply a2047.api4.akamai.net is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply business-api-tiktok-com-apix.bytewlb.akadns.net is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: reply a2047.api8.akamai.net is 96.16.55.81
+May  9 02:36:39 dnsmasq[71314]: reply a2047.api8.akamai.net is 96.16.55.79
+May  9 02:36:39 dnsmasq[71314]: reply a2047.api8.akamai.net is 96.16.55.105
+May  9 02:36:39 dnsmasq[71314]: reply a2047.api8.akamai.net is 96.16.55.103
+May  9 02:36:39 dnsmasq[71314]: reply a2047.api8.akamai.net is 96.16.55.69
+May  9 02:36:39 dnsmasq[71314]: reply a2047.api8.akamai.net is 96.16.55.89
+May  9 02:36:39 dnsmasq[71314]: reply a2047.api8.akamai.net is 96.16.55.94
+May  9 02:36:39 dnsmasq[71314]: reply a2047.api8.akamai.net is 96.16.55.73
+May  9 02:36:39 dnsmasq[71314]: reply a2047.api8.akamai.net is 96.16.55.80
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.7
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.26
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.22
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.24
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.8
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.23
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.18
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.20
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.12
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply business-api-tiktok-com-apix.bytewlb.akadns.net is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: reply a2047.api2.akamai.net is NODATA
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply log.byteoversea.com.ttdns2.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: reply log.byteoversea.com.edgekey.net is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is NODATA
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply log.byteoversea.com.ttdns2.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: reply log.byteoversea.com.edgekey.net is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply log.byteoversea.com.ttdns2.com is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: reply log.byteoversea.com.edgekey.net is <CNAME>
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.7
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.26
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.22
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.24
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.8
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.23
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.18
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.20
+May  9 02:36:39 dnsmasq[71314]: reply e11942.api5.akamaiedge.net is 23.62.46.12
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply logservice1.hicloud.com is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply click.oneplus.cn is NODATA
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply grs.hicloud.com is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply logservice.hicloud.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply logbak.hicloud.com is 80.158.19.153
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply metrics2.data.hicloud.com is 80.158.38.48
+May  9 02:36:39 dnsmasq[71314]: reply metrics2.data.hicloud.com is 80.158.2.190
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply grs.hicloud.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply click.oneplus.cn is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply logservice1.hicloud.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply logservice.hicloud.com is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply metrics.data.hicloud.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply metrics2.data.hicloud.com is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply logbak.hicloud.com is NODATA
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply logbak.hicloud.com is NODATA-IPv6
+May  9 02:36:39 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:39 dnsmasq[71314]: reply metrics2.data.hicloud.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] business-api-tiktok-com-apix.bytewlb.akadns.net from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached business-api-tiktok-com-apix.bytewlb.akadns.net is <CNAME>
+May  9 02:36:40 dnsmasq[71314]: cached a2047.api2.akamai.net is NODATA-IPv6
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] partnerads.ysm.yahoo.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked partnerads.ysm.yahoo.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] partnerads.ysm.yahoo.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked partnerads.ysm.yahoo.com is ::
+May  9 02:36:40 dnsmasq[71314]: query[A] partnerads.ysm.yahoo.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked partnerads.ysm.yahoo.com is 0.0.0.0
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] gemini.yahoo.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked gemini.yahoo.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] gemini.yahoo.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked gemini.yahoo.com is ::
+May  9 02:36:40 dnsmasq[71314]: query[A] gemini.yahoo.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked gemini.yahoo.com is 0.0.0.0
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] edge.gycpi.b.yahoodns.net from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale edge.gycpi.b.yahoodns.net is NODATA
+May  9 02:36:40 dnsmasq[71314]: forwarded edge.gycpi.b.yahoodns.net to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] edge.gycpi.b.yahoodns.net from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale edge.gycpi.b.yahoodns.net is 2001:4998:18:800::4003
+May  9 02:36:40 dnsmasq[71314]: cached-stale edge.gycpi.b.yahoodns.net is 2001:4998:18:800::4002
+May  9 02:36:40 dnsmasq[71314]: forwarded edge.gycpi.b.yahoodns.net to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[A] edge.gycpi.b.yahoodns.net from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale edge.gycpi.b.yahoodns.net is 69.147.88.8
+May  9 02:36:40 dnsmasq[71314]: cached-stale edge.gycpi.b.yahoodns.net is 69.147.88.7
+May  9 02:36:40 dnsmasq[71314]: forwarded edge.gycpi.b.yahoodns.net to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] ds-oob-fo-media-router1.prod.media.g01.yahoodns.net from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale ds-oob-fo-media-router1.prod.media.g01.yahoodns.net is 2001:4998:24:120d::b000
+May  9 02:36:40 dnsmasq[71314]: forwarded ds-oob-fo-media-router1.prod.media.g01.yahoodns.net to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[A] ds-oob-fo-media-router1.prod.media.g01.yahoodns.net from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale ds-oob-fo-media-router1.prod.media.g01.yahoodns.net is 98.137.11.157
+May  9 02:36:40 dnsmasq[71314]: forwarded ds-oob-fo-media-router1.prod.media.g01.yahoodns.net to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] appmetrica.yandex.ru from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked appmetrica.yandex.ru is NODATA
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] appmetrica.yandex.ru from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked appmetrica.yandex.ru is ::
+May  9 02:36:40 dnsmasq[71314]: query[A] appmetrica.yandex.ru from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked appmetrica.yandex.ru is 0.0.0.0
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] adfox.yandex.ru from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale adfox.yandex.ru is 2a02:6b8::366
+May  9 02:36:40 dnsmasq[71314]: forwarded adfox.yandex.ru to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[A] adfox.yandex.ru from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale adfox.yandex.ru is 213.180.193.191
+May  9 02:36:40 dnsmasq[71314]: forwarded adfox.yandex.ru to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] auction.unityads.unity3d.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked auction.unityads.unity3d.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] auction.unityads.unity3d.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked auction.unityads.unity3d.com is ::
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply edge.gycpi.b.yahoodns.net is 69.147.88.8
+May  9 02:36:40 dnsmasq[71314]: reply edge.gycpi.b.yahoodns.net is 69.147.88.7
+May  9 02:36:40 dnsmasq[71314]: query[A] auction.unityads.unity3d.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked auction.unityads.unity3d.com is 0.0.0.0
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] webview.unityads.unity3d.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked webview.unityads.unity3d.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] webview.unityads.unity3d.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked webview.unityads.unity3d.com is ::
+May  9 02:36:40 dnsmasq[71314]: query[A] webview.unityads.unity3d.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked webview.unityads.unity3d.com is 0.0.0.0
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] config.unityads.unity3d.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked config.unityads.unity3d.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] config.unityads.unity3d.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked config.unityads.unity3d.com is ::
+May  9 02:36:40 dnsmasq[71314]: query[A] config.unityads.unity3d.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked config.unityads.unity3d.com is 0.0.0.0
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] adserver.unityads.unity3d.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked adserver.unityads.unity3d.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] adserver.unityads.unity3d.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked adserver.unityads.unity3d.com is ::
+May  9 02:36:40 dnsmasq[71314]: query[A] adserver.unityads.unity3d.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked adserver.unityads.unity3d.com is 0.0.0.0
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] iot-eu-logser.realme.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked iot-eu-logser.realme.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] iot-eu-logser.realme.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked iot-eu-logser.realme.com is ::
+May  9 02:36:40 dnsmasq[71314]: query[A] iot-eu-logser.realme.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked iot-eu-logser.realme.com is 0.0.0.0
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply edge.gycpi.b.yahoodns.net is NODATA
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply edge.gycpi.b.yahoodns.net is 2001:4998:18:800::4003
+May  9 02:36:40 dnsmasq[71314]: reply edge.gycpi.b.yahoodns.net is 2001:4998:18:800::4002
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] iot-logser.realme.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked iot-logser.realme.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] iot-logser.realme.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked iot-logser.realme.com is ::
+May  9 02:36:40 dnsmasq[71314]: query[A] iot-logser.realme.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked iot-logser.realme.com is 0.0.0.0
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] bdapi-ads.realmemobile.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale bdapi-ads.realmemobile.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: forwarded bdapi-ads.realmemobile.com to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] bdapi-ads.realmemobile.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale bdapi-ads.realmemobile.com is NODATA-IPv6
+May  9 02:36:40 dnsmasq[71314]: forwarded bdapi-ads.realmemobile.com to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] bdapi-in-ads.realmemobile.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale bdapi-in-ads.realmemobile.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: forwarded bdapi-in-ads.realmemobile.com to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] bdapi-in-ads.realmemobile.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale bdapi-in-ads.realmemobile.com is NODATA-IPv6
+May  9 02:36:40 dnsmasq[71314]: forwarded bdapi-in-ads.realmemobile.com to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] api.ad.xiaomi.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked api.ad.xiaomi.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] api.ad.xiaomi.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked api.ad.xiaomi.com is ::
+May  9 02:36:40 dnsmasq[71314]: query[A] api.ad.xiaomi.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked api.ad.xiaomi.com is 0.0.0.0
+May  9 02:36:40 dnsmasq[71314]: query[HTTPS] data.mistat.xiaomi.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked data.mistat.xiaomi.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] data.mistat.xiaomi.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked data.mistat.xiaomi.com is ::
+May  9 02:36:40 dnsmasq[71314]: query[A] data.mistat.xiaomi.com from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: gravity blocked data.mistat.xiaomi.com is 0.0.0.0
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] a787.dscr.akamai.net from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale a787.dscr.akamai.net is 2600:1406:3a00:3::17c0:e484
+May  9 02:36:40 dnsmasq[71314]: cached-stale a787.dscr.akamai.net is 2600:1406:3a00:3::17c0:e485
+May  9 02:36:40 dnsmasq[71314]: forwarded a787.dscr.akamai.net to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[A] a787.dscr.akamai.net from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale a787.dscr.akamai.net is 23.192.228.82
+May  9 02:36:40 dnsmasq[71314]: cached-stale a787.dscr.akamai.net is 23.192.228.79
+May  9 02:36:40 dnsmasq[71314]: forwarded a787.dscr.akamai.net to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] a1001.dscr.akamai.net from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale a1001.dscr.akamai.net is 2600:1406:3a00:3::17c0:e48e
+May  9 02:36:40 dnsmasq[71314]: cached-stale a1001.dscr.akamai.net is 2600:1406:3a00:3::17c0:e489
+May  9 02:36:40 dnsmasq[71314]: forwarded a1001.dscr.akamai.net to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply ds-oob-fo-media-router1.prod.media.g01.yahoodns.net is 98.137.11.157
+May  9 02:36:40 dnsmasq[71314]: query[A] a1001.dscr.akamai.net from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: cached-stale a1001.dscr.akamai.net is 23.192.228.80
+May  9 02:36:40 dnsmasq[71314]: cached-stale a1001.dscr.akamai.net is 23.192.228.79
+May  9 02:36:40 dnsmasq[71314]: forwarded a1001.dscr.akamai.net to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: query[AAAA] a2047.api6.akamai.net from 192.168.1.116
+May  9 02:36:40 dnsmasq[71314]: forwarded a2047.api6.akamai.net to 127.0.0.1#5335
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply ds-oob-fo-media-router1.prod.media.g01.yahoodns.net is 2001:4998:24:120d::b000
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply a2047.api6.akamai.net is NODATA-IPv6
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply a787.dscr.akamai.net is 23.192.228.79
+May  9 02:36:40 dnsmasq[71314]: reply a787.dscr.akamai.net is 23.192.228.82
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply a1001.dscr.akamai.net is 23.192.228.79
+May  9 02:36:40 dnsmasq[71314]: reply a1001.dscr.akamai.net is 23.192.228.80
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply a787.dscr.akamai.net is 2600:1406:3a00:3::17c0:e484
+May  9 02:36:40 dnsmasq[71314]: reply a787.dscr.akamai.net is 2600:1406:3a00:3::17c0:e485
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply a1001.dscr.akamai.net is 2600:1406:3a00:3::17c0:e489
+May  9 02:36:40 dnsmasq[71314]: reply a1001.dscr.akamai.net is 2600:1406:3a00:3::17c0:e48e
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply adfox.yandex.ru is 2a02:6b8::366
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply adfox.yandex.ru is 213.180.193.191
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply bdapi-ads.realmemobile.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply bdapi-in-ads.realmemobile.com is NODATA-IPv6
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply bdapi-in-ads.realmemobile.com is NODATA
+May  9 02:36:40 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:40 dnsmasq[71314]: reply bdapi-ads.realmemobile.com is NODATA-IPv6
+May  9 02:36:41 dnsmasq[71314]: query[A] samsungads.com from 192.168.1.116
+May  9 02:36:41 dnsmasq[71314]: gravity blocked samsungads.com is 0.0.0.0
+May  9 02:36:42 dnsmasq[71314]: query[PTR] lb._dns-sd._udp.112.31.87.10.in-addr.arpa from 10.100.0.4
+May  9 02:36:42 dnsmasq[71314]: forwarded lb._dns-sd._udp.112.31.87.10.in-addr.arpa to 127.0.0.1#5335
+May  9 02:36:42 dnsmasq[71314]: query[PTR] lb._dns-sd._udp.4.0.100.10.in-addr.arpa from 10.100.0.4
+May  9 02:36:42 dnsmasq[71314]: forwarded lb._dns-sd._udp.4.0.100.10.in-addr.arpa to 127.0.0.1#5335
+May  9 02:36:42 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:42 dnsmasq[71314]: reply lb._dns-sd._udp.112.31.87.10.in-addr.arpa is NXDOMAIN
+May  9 02:36:42 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:42 dnsmasq[71314]: reply lb._dns-sd._udp.4.0.100.10.in-addr.arpa is NXDOMAIN
+May  9 02:36:42 dnsmasq[71314]: query[PTR] lb._dns-sd._udp.0.0.168.192.in-addr.arpa from 10.100.0.4
+May  9 02:36:42 dnsmasq[71314]: forwarded lb._dns-sd._udp.0.0.168.192.in-addr.arpa to 127.0.0.1#5335
+May  9 02:36:42 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:42 dnsmasq[71314]: reply lb._dns-sd._udp.0.0.168.192.in-addr.arpa is NXDOMAIN
+May  9 02:36:43 dnsmasq[71314]: query[A] chat.google.com from 192.168.1.10
+May  9 02:36:43 dnsmasq[71314]: cached chat.google.com is 142.251.46.174
+May  9 02:36:47 dnsmasq[71314]: query[A] mobile.events.data.microsoft.com from 192.168.1.10
+May  9 02:36:47 dnsmasq[71314]: cached-stale mobile.events.data.microsoft.com is <CNAME>
+May  9 02:36:47 dnsmasq[71314]: cached-stale mobile.events.data.trafficmanager.net is <CNAME>
+May  9 02:36:47 dnsmasq[71314]: forwarded mobile.events.data.microsoft.com to 127.0.0.1#5335
+May  9 02:36:47 dnsmasq[71314]: query[AAAA] mobile.events.data.microsoft.com from 192.168.1.10
+May  9 02:36:47 dnsmasq[71314]: cached-stale mobile.events.data.microsoft.com is <CNAME>
+May  9 02:36:47 dnsmasq[71314]: cached-stale mobile.events.data.trafficmanager.net is <CNAME>
+May  9 02:36:47 dnsmasq[71314]: cached-stale onedscolprdeus21.eastus.cloudapp.azure.com is NODATA-IPv6
+May  9 02:36:47 dnsmasq[71314]: forwarded mobile.events.data.microsoft.com to 127.0.0.1#5335
+May  9 02:36:47 dnsmasq[71314]: query[AAAA] onedscolprdeus21.eastus.cloudapp.azure.com from 192.168.1.10
+May  9 02:36:47 dnsmasq[71314]: cached-stale onedscolprdeus21.eastus.cloudapp.azure.com is NODATA-IPv6
+May  9 02:36:47 dnsmasq[71314]: forwarded onedscolprdeus21.eastus.cloudapp.azure.com to 127.0.0.1#5335
+May  9 02:36:47 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:47 dnsmasq[71314]: reply onedscolprdeus21.eastus.cloudapp.azure.com is NODATA-IPv6
+May  9 02:36:47 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:47 dnsmasq[71314]: reply mobile.events.data.microsoft.com is <CNAME>
+May  9 02:36:47 dnsmasq[71314]: reply mobile.events.data.trafficmanager.net is <CNAME>
+May  9 02:36:47 dnsmasq[71314]: reply onedscolprdwus21.westus.cloudapp.azure.com is 20.189.173.27
+May  9 02:36:47 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:47 dnsmasq[71314]: reply mobile.events.data.microsoft.com is <CNAME>
+May  9 02:36:47 dnsmasq[71314]: reply mobile.events.data.trafficmanager.net is <CNAME>
+May  9 02:36:47 dnsmasq[71314]: reply onedscolprdwus21.westus.cloudapp.azure.com is NODATA-IPv6
+May  9 02:36:48 dnsmasq[71314]: query[A] mobile.events.data.microsoft.com from 192.168.1.10
+May  9 02:36:48 dnsmasq[71314]: cached mobile.events.data.microsoft.com is <CNAME>
+May  9 02:36:48 dnsmasq[71314]: cached mobile.events.data.trafficmanager.net is <CNAME>
+May  9 02:36:48 dnsmasq[71314]: cached onedscolprdwus21.westus.cloudapp.azure.com is 20.189.173.27
+May  9 02:36:48 dnsmasq[71314]: query[A] onedscolprdeus21.eastus.cloudapp.azure.com from 192.168.1.10
+May  9 02:36:48 dnsmasq[71314]: forwarded onedscolprdeus21.eastus.cloudapp.azure.com to 127.0.0.1#5335
+May  9 02:36:48 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:48 dnsmasq[71314]: reply onedscolprdeus21.eastus.cloudapp.azure.com is 20.42.73.31
+May  9 02:36:48 dnsmasq[71314]: query[AAAA] mask-api.fe2.apple-dns.net from 192.168.1.116
+May  9 02:36:48 dnsmasq[71314]: cached-stale mask-api.fe2.apple-dns.net is 2620:149:a43:280::2
+May  9 02:36:48 dnsmasq[71314]: cached-stale mask-api.fe2.apple-dns.net is 2620:149:a43:280::7
+May  9 02:36:48 dnsmasq[71314]: cached-stale mask-api.fe2.apple-dns.net is 2620:149:a43:280::5
+May  9 02:36:48 dnsmasq[71314]: cached-stale mask-api.fe2.apple-dns.net is 2620:149:a43:280::8
+May  9 02:36:48 dnsmasq[71314]: forwarded mask-api.fe2.apple-dns.net to 127.0.0.1#5335
+May  9 02:36:48 dnsmasq[71314]: query[A] mask-api.fe2.apple-dns.net from 192.168.1.116
+May  9 02:36:48 dnsmasq[71314]: cached-stale mask-api.fe2.apple-dns.net is 17.248.192.2
+May  9 02:36:48 dnsmasq[71314]: cached-stale mask-api.fe2.apple-dns.net is 17.248.192.4
+May  9 02:36:48 dnsmasq[71314]: cached-stale mask-api.fe2.apple-dns.net is 17.248.192.1
+May  9 02:36:48 dnsmasq[71314]: cached-stale mask-api.fe2.apple-dns.net is 17.248.192.3
+May  9 02:36:48 dnsmasq[71314]: forwarded mask-api.fe2.apple-dns.net to 127.0.0.1#5335
+May  9 02:36:48 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:48 dnsmasq[71314]: reply mask-api.fe2.apple-dns.net is 17.248.192.4
+May  9 02:36:48 dnsmasq[71314]: reply mask-api.fe2.apple-dns.net is 17.248.192.2
+May  9 02:36:48 dnsmasq[71314]: reply mask-api.fe2.apple-dns.net is 17.248.192.1
+May  9 02:36:48 dnsmasq[71314]: reply mask-api.fe2.apple-dns.net is 17.248.192.3
+May  9 02:36:48 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:48 dnsmasq[71314]: reply mask-api.fe2.apple-dns.net is 2620:149:a43:280::5
+May  9 02:36:48 dnsmasq[71314]: reply mask-api.fe2.apple-dns.net is 2620:149:a43:280::7
+May  9 02:36:48 dnsmasq[71314]: reply mask-api.fe2.apple-dns.net is 2620:149:a43:280::8
+May  9 02:36:48 dnsmasq[71314]: reply mask-api.fe2.apple-dns.net is 2620:149:a43:280::2
+May  9 02:36:49 dnsmasq[71314]: query[A] logs-prod-021.grafana.net from 192.168.1.2
+May  9 02:36:49 dnsmasq[71314]: cached-stale logs-prod-021.grafana.net is <CNAME>
+May  9 02:36:49 dnsmasq[71314]: cached-stale k8s-lokiprod-logsprod-00ce98caa0-1533676483.us-west-2.elb.amazonaws.com is 52.41.180.138
+May  9 02:36:49 dnsmasq[71314]: cached-stale k8s-lokiprod-logsprod-00ce98caa0-1533676483.us-west-2.elb.amazonaws.com is 52.37.68.131
+May  9 02:36:49 dnsmasq[71314]: forwarded logs-prod-021.grafana.net to 127.0.0.1#5335
+May  9 02:36:49 dnsmasq[71314]: query[AAAA] logs-prod-021.grafana.net from 192.168.1.2
+May  9 02:36:49 dnsmasq[71314]: cached-stale logs-prod-021.grafana.net is <CNAME>
+May  9 02:36:49 dnsmasq[71314]: cached-stale k8s-lokiprod-logsprod-00ce98caa0-1533676483.us-west-2.elb.amazonaws.com is NODATA-IPv6
+May  9 02:36:49 dnsmasq[71314]: forwarded logs-prod-021.grafana.net to 127.0.0.1#5335
+May  9 02:36:49 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:49 dnsmasq[71314]: reply logs-prod-021.grafana.net is <CNAME>
+May  9 02:36:49 dnsmasq[71314]: reply k8s-lokiprod-logsprod-00ce98caa0-1533676483.us-west-2.elb.amazonaws.com is 52.37.68.131
+May  9 02:36:49 dnsmasq[71314]: reply k8s-lokiprod-logsprod-00ce98caa0-1533676483.us-west-2.elb.amazonaws.com is 52.41.180.138
+May  9 02:36:49 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:49 dnsmasq[71314]: reply logs-prod-021.grafana.net is <CNAME>
+May  9 02:36:49 dnsmasq[71314]: reply k8s-lokiprod-logsprod-00ce98caa0-1533676483.us-west-2.elb.amazonaws.com is NODATA-IPv6
+May  9 02:36:51 dnsmasq[71314]: query[A] slscr.update.microsoft.com from fd08:4711::5
+May  9 02:36:51 dnsmasq[71314]: forwarded slscr.update.microsoft.com to 127.0.0.1#5335
+May  9 02:36:51 dnsmasq[71314]: query[AAAA] slscr.update.microsoft.com from fd08:4711::5
+May  9 02:36:51 dnsmasq[71314]: forwarded slscr.update.microsoft.com to 127.0.0.1#5335
+May  9 02:36:51 dnsmasq[71314]: query[AAAA] slscr.update.microsoft.com from 10.100.0.5
+May  9 02:36:51 dnsmasq[71314]: query[A] slscr.update.microsoft.com from 10.100.0.5
+May  9 02:36:51 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:51 dnsmasq[71314]: reply slscr.update.microsoft.com is <CNAME>
+May  9 02:36:51 dnsmasq[71314]: reply sls.update.microsoft.com is <CNAME>
+May  9 02:36:51 dnsmasq[71314]: reply glb.sls.prod.dcat.dsp.trafficmanager.net is 13.85.23.86
+May  9 02:36:51 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:51 dnsmasq[71314]: reply slscr.update.microsoft.com is <CNAME>
+May  9 02:36:51 dnsmasq[71314]: reply sls.update.microsoft.com is <CNAME>
+May  9 02:36:51 dnsmasq[71314]: reply glb.sls.prod.dcat.dsp.trafficmanager.net is 2a01:111:f100:9001::1761:91b4
+May  9 02:36:57 dnsmasq[71314]: query[A] ctldl.windowsupdate.com from fd08:4711::5
+May  9 02:36:57 dnsmasq[71314]: cached-stale ctldl.windowsupdate.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale ctldl.windowsupdate.com.delivery.microsoft.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale wu-b-net.trafficmanager.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale wu.azureedge.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale wu.ec.azureedge.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale bg.apr-52dd2-0503.edgecastdns.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale hlb.apr-52dd2-0.edgecastdns.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale cs11.wpc.v0cdn.net is 72.21.81.240
+May  9 02:36:57 dnsmasq[71314]: forwarded ctldl.windowsupdate.com to 127.0.0.1#5335
+May  9 02:36:57 dnsmasq[71314]: forwarded ctldl.windowsupdate.com to ::1#5335
+May  9 02:36:57 dnsmasq[71314]: query[AAAA] ctldl.windowsupdate.com from fd08:4711::5
+May  9 02:36:57 dnsmasq[71314]: cached-stale ctldl.windowsupdate.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale ctldl.windowsupdate.com.delivery.microsoft.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale wu-b-net.trafficmanager.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale wu.azureedge.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale wu.ec.azureedge.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale bg.apr-52dd2-0503.edgecastdns.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale hlb.apr-52dd2-0.edgecastdns.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale cs11.wpc.v0cdn.net is 2606:2800:11f:85d:13e0:11e9:1a6:201d
+May  9 02:36:57 dnsmasq[71314]: forwarded ctldl.windowsupdate.com to 127.0.0.1#5335
+May  9 02:36:57 dnsmasq[71314]: query[AAAA] ctldl.windowsupdate.com from 10.100.0.5
+May  9 02:36:57 dnsmasq[71314]: cached-stale ctldl.windowsupdate.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale ctldl.windowsupdate.com.delivery.microsoft.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale wu-b-net.trafficmanager.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale wu.azureedge.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale wu.ec.azureedge.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale bg.apr-52dd2-0503.edgecastdns.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale hlb.apr-52dd2-0.edgecastdns.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale cs11.wpc.v0cdn.net is 2606:2800:11f:85d:13e0:11e9:1a6:201d
+May  9 02:36:57 dnsmasq[71314]: query[A] ctldl.windowsupdate.com from 10.100.0.5
+May  9 02:36:57 dnsmasq[71314]: cached-stale ctldl.windowsupdate.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale ctldl.windowsupdate.com.delivery.microsoft.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale wu-b-net.trafficmanager.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale wu.azureedge.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale wu.ec.azureedge.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale bg.apr-52dd2-0503.edgecastdns.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale hlb.apr-52dd2-0.edgecastdns.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale cs11.wpc.v0cdn.net is 72.21.81.240
+May  9 02:36:57 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:57 dnsmasq[71314]: reply ctldl.windowsupdate.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply ctldl.windowsupdate.com.delivery.microsoft.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply wu-b-net.trafficmanager.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply bg.microsoft.map.fastly.net is 151.101.202.172
+May  9 02:36:57 dnsmasq[71314]: query[A] ocsp.entrust.net from fd08:4711::5
+May  9 02:36:57 dnsmasq[71314]: cached ocsp.entrust.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale ocsp.entrust.net.edgekey.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale e6913.dscx.akamaiedge.net is 104.99.49.27
+May  9 02:36:57 dnsmasq[71314]: forwarded ocsp.entrust.net to 127.0.0.1#5335
+May  9 02:36:57 dnsmasq[71314]: query[AAAA] ocsp.entrust.net from fd08:4711::5
+May  9 02:36:57 dnsmasq[71314]: cached ocsp.entrust.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale ocsp.entrust.net.edgekey.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale e6913.dscx.akamaiedge.net is 2600:1406:3a00:288::1b01
+May  9 02:36:57 dnsmasq[71314]: cached-stale e6913.dscx.akamaiedge.net is 2600:1406:3a00:28f::1b01
+May  9 02:36:57 dnsmasq[71314]: forwarded ocsp.entrust.net to 127.0.0.1#5335
+May  9 02:36:57 dnsmasq[71314]: query[A] ocsp.entrust.net from 10.100.0.5
+May  9 02:36:57 dnsmasq[71314]: cached ocsp.entrust.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale ocsp.entrust.net.edgekey.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale e6913.dscx.akamaiedge.net is 104.99.49.27
+May  9 02:36:57 dnsmasq[71314]: query[AAAA] ocsp.entrust.net from 10.100.0.5
+May  9 02:36:57 dnsmasq[71314]: cached ocsp.entrust.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale ocsp.entrust.net.edgekey.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale e6913.dscx.akamaiedge.net is 2600:1406:3a00:28f::1b01
+May  9 02:36:57 dnsmasq[71314]: cached-stale e6913.dscx.akamaiedge.net is 2600:1406:3a00:288::1b01
+May  9 02:36:57 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:57 dnsmasq[71314]: reply ocsp.entrust.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply ocsp.entrust.net.edgekey.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply e6913.dscx.akamaiedge.net is 104.99.49.27
+May  9 02:36:57 dnsmasq[71314]: query[A] s.symcb.com from fd08:4711::5
+May  9 02:36:57 dnsmasq[71314]: cached s.symcb.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale crl-symcprod.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached crl.edge.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale fp2e7a.wpc.2be4.phicdn.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale fp2e7a.wpc.phicdn.net is 192.229.211.108
+May  9 02:36:57 dnsmasq[71314]: forwarded s.symcb.com to 127.0.0.1#5335
+May  9 02:36:57 dnsmasq[71314]: query[AAAA] s.symcb.com from fd08:4711::5
+May  9 02:36:57 dnsmasq[71314]: cached s.symcb.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale crl-symcprod.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached crl.edge.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale fp2e7a.wpc.2be4.phicdn.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached fp2e7a.wpc.phicdn.net is NODATA-IPv6
+May  9 02:36:57 dnsmasq[71314]: forwarded s.symcb.com to 127.0.0.1#5335
+May  9 02:36:57 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:57 dnsmasq[71314]: reply ctldl.windowsupdate.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply ctldl.windowsupdate.com.delivery.microsoft.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply wu-b-net.trafficmanager.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply download.windowsupdate.com.edgesuite.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply a767.dspw65.akamai.net is 2600:1406:2e00:1b::1743:2188
+May  9 02:36:57 dnsmasq[71314]: reply a767.dspw65.akamai.net is 2600:1406:2e00:1b::1743:2189
+May  9 02:36:57 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:57 dnsmasq[71314]: reply ocsp.entrust.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply ocsp.entrust.net.edgekey.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply e6913.dscx.akamaiedge.net is 2600:1406:3a00:28f::1b01
+May  9 02:36:57 dnsmasq[71314]: reply e6913.dscx.akamaiedge.net is 2600:1406:3a00:288::1b01
+May  9 02:36:57 dnsmasq[71314]: query[AAAA] s.symcb.com from 10.100.0.5
+May  9 02:36:57 dnsmasq[71314]: cached s.symcb.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale crl-symcprod.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached crl.edge.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale fp2e7a.wpc.2be4.phicdn.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached fp2e7a.wpc.phicdn.net is NODATA-IPv6
+May  9 02:36:57 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:57 dnsmasq[71314]: reply s.symcb.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply crl-symcprod.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply crl.edge.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply fp2e7a.wpc.2be4.phicdn.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply fp2e7a.wpc.phicdn.net is NODATA-IPv6
+May  9 02:36:57 dnsmasq[71314]: query[A] s.symcb.com from 10.100.0.5
+May  9 02:36:57 dnsmasq[71314]: cached s.symcb.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached crl-symcprod.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached crl.edge.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached fp2e7a.wpc.2be4.phicdn.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: cached-stale fp2e7a.wpc.phicdn.net is 192.229.211.108
+May  9 02:36:57 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:57 dnsmasq[71314]: reply s.symcb.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply crl-symcprod.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply crl.edge.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply fp2e7a.wpc.2be4.phicdn.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply fp2e7a.wpc.phicdn.net is 192.229.211.108
+May  9 02:36:57 dnsmasq[71314]: query[A] crl.verisign.com from fd08:4711::5
+May  9 02:36:57 dnsmasq[71314]: forwarded crl.verisign.com to 127.0.0.1#5335
+May  9 02:36:57 dnsmasq[71314]: query[AAAA] crl.verisign.com from fd08:4711::5
+May  9 02:36:57 dnsmasq[71314]: forwarded crl.verisign.com to 127.0.0.1#5335
+May  9 02:36:57 dnsmasq[71314]: query[AAAA] crl.verisign.com from 10.100.0.5
+May  9 02:36:57 dnsmasq[71314]: query[A] crl.verisign.com from 10.100.0.5
+May  9 02:36:57 dnsmasq[71314]: dnssec-query[DNSKEY] verisign.com to 127.0.0.1#5335
+May  9 02:36:57 dnsmasq[71314]: reply verisign.com is DNSKEY keytag 55204, algo 8
+May  9 02:36:57 dnsmasq[71314]: reply verisign.com is DNSKEY keytag 32865, algo 8
+May  9 02:36:57 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:57 dnsmasq[71314]: reply crl.verisign.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply crl-symcprod.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply crl.edge.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply fp2e7a.wpc.2be4.phicdn.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply fp2e7a.wpc.phicdn.net is 192.229.211.108
+May  9 02:36:57 dnsmasq[71314]: validation result is INSECURE
+May  9 02:36:57 dnsmasq[71314]: reply crl.verisign.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply crl-symcprod.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply crl.edge.digicert.com is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply fp2e7a.wpc.2be4.phicdn.net is <CNAME>
+May  9 02:36:57 dnsmasq[71314]: reply fp2e7a.wpc.phicdn.net is NODATA-IPv6
