@@ -1,0 +1,3980 @@
+{
+  "queries": [
+    {
+      "id": 743362,
+      "time": 1715222208.36775,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "mask-api.fe2.apple-dns.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.0004410743713378906
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743361,
+      "time": 1715222208.3719542,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "mask-api.fe2.apple-dns.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.0004181861877441406
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743353,
+      "time": 1715222201.2145119,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "samsungads.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0005385875701904297
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743352,
+      "time": 1715222200.2213004,
+      "type": "AAAA",
+      "status": "CACHE",
+      "dnssec": "INSECURE",
+      "domain": "business-api-tiktok-com-apix.bytewlb.akadns.net",
+      "upstream": null,
+      "reply": {
+        "type": "CNAME",
+        "time": 0.00043964385986328125
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743351,
+      "time": 1715222200.2222335,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "partnerads.ysm.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.000360727310180664
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743350,
+      "time": 1715222200.2228904,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "partnerads.ysm.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004127025604248047
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743349,
+      "time": 1715222200.223659,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "partnerads.ysm.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00040435791015625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743348,
+      "time": 1715222200.2244127,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "gemini.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0004658699035644531
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743347,
+      "time": 1715222200.225213,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "gemini.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000436544418334961
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743346,
+      "time": 1715222200.2260108,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "gemini.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004162788391113281
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743345,
+      "time": 1715222200.2267754,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "edge.gycpi.b.yahoodns.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00028324127197265625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743344,
+      "time": 1715222200.2276359,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "edge.gycpi.b.yahoodns.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.00022745132446289062
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743343,
+      "time": 1715222200.2292066,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "edge.gycpi.b.yahoodns.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.000240325927734375
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743342,
+      "time": 1715222200.2305553,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "ds-oob-fo-media-router1.prod.media.g01.yahoodns.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.00033283233642578125
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743341,
+      "time": 1715222200.2317517,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "ds-oob-fo-media-router1.prod.media.g01.yahoodns.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.0003561973571777344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743340,
+      "time": 1715222200.2330947,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "appmetrica.yandex.ru",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0004432201385498047
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743339,
+      "time": 1715222200.2339046,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "appmetrica.yandex.ru",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004241466522216797
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743338,
+      "time": 1715222200.2347047,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "appmetrica.yandex.ru",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004119873046875
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743337,
+      "time": 1715222200.23548,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "adfox.yandex.ru",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.0002827644348144531
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743336,
+      "time": 1715222200.236584,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "adfox.yandex.ru",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.000386953353881836
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743335,
+      "time": 1715222200.23792,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "auction.unityads.unity3d.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0004088878631591797
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743334,
+      "time": 1715222200.2386932,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "auction.unityads.unity3d.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000451803207397461
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743333,
+      "time": 1715222200.2401907,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "auction.unityads.unity3d.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004169940948486328
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743332,
+      "time": 1715222200.2410712,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "webview.unityads.unity3d.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003509521484375
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743331,
+      "time": 1715222200.2417426,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "webview.unityads.unity3d.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00043582916259765625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743330,
+      "time": 1715222200.2425528,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "webview.unityads.unity3d.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000406503677368164
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743329,
+      "time": 1715222200.2433755,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "config.unityads.unity3d.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003840923309326172
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743328,
+      "time": 1715222200.24411,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "config.unityads.unity3d.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000459909439086914
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743327,
+      "time": 1715222200.2450335,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "config.unityads.unity3d.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004203319549560547
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743326,
+      "time": 1715222200.245806,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "adserver.unityads.unity3d.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003628730773925781
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743325,
+      "time": 1715222200.2464557,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "adserver.unityads.unity3d.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000402688980102539
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743324,
+      "time": 1715222200.2472074,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "adserver.unityads.unity3d.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004000663757324219
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743323,
+      "time": 1715222200.247955,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "iot-eu-logser.realme.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00033164024353027344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743322,
+      "time": 1715222200.2485688,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "iot-eu-logser.realme.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004634857177734375
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743321,
+      "time": 1715222200.2493966,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "iot-eu-logser.realme.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004553794860839844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743320,
+      "time": 1715222200.251044,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "iot-logser.realme.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00034737586975097656
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743319,
+      "time": 1715222200.2517178,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "iot-logser.realme.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004229545593261719
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743318,
+      "time": 1715222200.2525053,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "iot-logser.realme.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00046539306640625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743317,
+      "time": 1715222200.2533467,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "bdapi-ads.realmemobile.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0002949237823486328
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743316,
+      "time": 1715222200.2542722,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "bdapi-ads.realmemobile.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003635883331298828
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743315,
+      "time": 1715222200.2552555,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "bdapi-in-ads.realmemobile.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003275871276855469
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743314,
+      "time": 1715222200.2561872,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "bdapi-in-ads.realmemobile.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003349781036376953
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743313,
+      "time": 1715222200.2572684,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "api.ad.xiaomi.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003979206085205078
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743312,
+      "time": 1715222200.2580082,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "api.ad.xiaomi.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004253387451171875
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743311,
+      "time": 1715222200.2587962,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "api.ad.xiaomi.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004324913024902344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743310,
+      "time": 1715222200.2595975,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "data.mistat.xiaomi.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00034809112548828125
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743309,
+      "time": 1715222200.2602687,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "data.mistat.xiaomi.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004782676696777344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743308,
+      "time": 1715222200.2611315,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "data.mistat.xiaomi.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004088878631591797
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743307,
+      "time": 1715222200.2618904,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "a787.dscr.akamai.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.00029349327087402344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743306,
+      "time": 1715222200.2633495,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "a787.dscr.akamai.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.00034999847412109375
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743305,
+      "time": 1715222200.2650025,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "a1001.dscr.akamai.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.0003809928894042969
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743304,
+      "time": 1715222200.267068,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "a1001.dscr.akamai.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.000345468521118164
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743303,
+      "time": 1715222200.2686129,
+      "type": "AAAA",
+      "status": "FORWARDED",
+      "dnssec": "INSECURE",
+      "domain": "a2047.api6.akamai.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.023945331573486328
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743302,
+      "time": 1715222199.096955,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "sessions.bugsnag.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0002913475036621094
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743301,
+      "time": 1715222199.0975447,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "sessions.bugsnag.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0003609657287597656
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743300,
+      "time": 1715222199.0982473,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "sessions.bugsnag.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00034427642822265625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743299,
+      "time": 1715222199.0989246,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "pixel.facebook.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003349781036376953
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743298,
+      "time": 1715222199.099543,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "pixel.facebook.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00040435791015625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743297,
+      "time": 1715222199.1002917,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "pixel.facebook.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004563331604003906
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743296,
+      "time": 1715222199.1011343,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "an.facebook.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003452301025390625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743295,
+      "time": 1715222199.1017613,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "an.facebook.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004019737243652344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743294,
+      "time": 1715222199.1025674,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "an.facebook.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004730224609375
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743293,
+      "time": 1715222199.104503,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "static.ads-twitter.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.000421285629272461
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743292,
+      "time": 1715222199.1052577,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "static.ads-twitter.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00044345855712890625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743291,
+      "time": 1715222199.1060543,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "static.ads-twitter.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0003838539123535156
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743290,
+      "time": 1715222199.106784,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads-api.twitter.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003542900085449219
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743289,
+      "time": 1715222199.107419,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads-api.twitter.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004062652587890625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743288,
+      "time": 1715222199.1081688,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads-api.twitter.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004024505615234375
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743287,
+      "time": 1715222199.1089785,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.linkedin.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00036716461181640625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743286,
+      "time": 1715222199.1096268,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.linkedin.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004067420959472656
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743285,
+      "time": 1715222199.110381,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.linkedin.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000408172607421875
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743284,
+      "time": 1715222199.1111321,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.pointdrive.linkedin.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003418922424316406
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743283,
+      "time": 1715222199.11175,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.pointdrive.linkedin.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00040411949157714844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743282,
+      "time": 1715222199.112498,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.pointdrive.linkedin.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00047326087951660156
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743281,
+      "time": 1715222199.1133354,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.pinterest.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003399848937988281
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743280,
+      "time": 1715222199.1139796,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.pinterest.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004215240478515625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743279,
+      "time": 1715222199.114748,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.pinterest.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0003974437713623047
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743278,
+      "time": 1715222199.1154842,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "log.pinterest.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003402233123779297
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743277,
+      "time": 1715222199.1161213,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "log.pinterest.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004093647003173828
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743276,
+      "time": 1715222199.1169689,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "log.pinterest.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004012584686279297
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743275,
+      "time": 1715222199.1177168,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.pinterest.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00033855438232421875
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743274,
+      "time": 1715222199.1183355,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.pinterest.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00040030479431152344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743273,
+      "time": 1715222199.1190782,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.pinterest.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00039958953857421875
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743272,
+      "time": 1715222199.11982,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "trk.pinterest.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00033593177795410156
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743271,
+      "time": 1715222199.120432,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "trk.pinterest.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004863739013671875
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743270,
+      "time": 1715222199.1212833,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "trk.pinterest.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000400543212890625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743269,
+      "time": 1715222199.122026,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "events.redditmedia.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003333091735839844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743268,
+      "time": 1715222199.1226354,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "events.redditmedia.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000398397445678711
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743267,
+      "time": 1715222199.1233835,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "events.redditmedia.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00040149688720703125
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743266,
+      "time": 1715222199.1241367,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.youtube.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00036907196044921875
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743265,
+      "time": 1715222199.1248546,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.youtube.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004794597625732422
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743264,
+      "time": 1715222199.125782,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.youtube.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00045418739318847656
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743263,
+      "time": 1715222199.1266289,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "e35058.api5.akamaiedge.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.00031638145446777344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743262,
+      "time": 1715222199.1295094,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.tiktok.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0005865097045898438
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743261,
+      "time": 1715222199.13052,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.tiktok.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0005066394805908203
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743260,
+      "time": 1715222199.1314745,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.tiktok.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0005064010620117188
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743259,
+      "time": 1715222199.13242,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "e35058.a.akamaiedge.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.0004343986511230469
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743258,
+      "time": 1715222199.1370347,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "business-api-tiktok-com-apix.bytewlb.akadns.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.00043201446533203125
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743257,
+      "time": 1715222199.1384141,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "business-api-tiktok-com-apix.bytewlb.akadns.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.000581979751586914
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743256,
+      "time": 1715222199.1400204,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "business-api-tiktok-com-apix.bytewlb.akadns.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.0004856586456298828
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743255,
+      "time": 1715222199.1460843,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.tiktok.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0004277229309082031
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743254,
+      "time": 1715222199.1468804,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.tiktok.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004248619079589844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743253,
+      "time": 1715222199.1476674,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.tiktok.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004181861877441406
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743252,
+      "time": 1715222199.1485054,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "log.byteoversea.com.ttdns2.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.00039649009704589844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743251,
+      "time": 1715222199.1498191,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "log.byteoversea.com.ttdns2.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.0004096031188964844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743250,
+      "time": 1715222199.1510878,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "log.byteoversea.com.ttdns2.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.0003445148468017578
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743249,
+      "time": 1715222199.156575,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00046825408935546875
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743248,
+      "time": 1715222199.1573915,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004222393035888672
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743247,
+      "time": 1715222199.1581736,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ads.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004086494445800781
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743246,
+      "time": 1715222199.15893,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003769397735595703
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743245,
+      "time": 1715222199.159666,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00043392181396484375
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743244,
+      "time": 1715222199.1604824,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004775524139404297
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743243,
+      "time": 1715222199.161344,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "geo.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.000344991683959961
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743242,
+      "time": 1715222199.1619773,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "geo.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004029273986816406
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743241,
+      "time": 1715222199.1627314,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "geo.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0003972053527832031
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743240,
+      "time": 1715222199.1634736,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "udc-ats.media.g03.yahoodns.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00030803680419921875
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743239,
+      "time": 1715222199.1643617,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "udc-ats.media.g03.yahoodns.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.0002257823944091797
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743238,
+      "time": 1715222199.1655009,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "udc-ats.media.g03.yahoodns.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.00023365020751953125
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743237,
+      "time": 1715222199.1665483,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "udcm.yahoo.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.0003204345703125
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743236,
+      "time": 1715222199.1676164,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "udcm.yahoo.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.0003478527069091797
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743235,
+      "time": 1715222199.1690304,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "udcm.yahoo.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.0003204345703125
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743234,
+      "time": 1715222199.1703084,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.query.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0004162788391113281
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743233,
+      "time": 1715222199.1710954,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.query.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004220008850097656
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743232,
+      "time": 1715222199.1718848,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.query.yahoo.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004367828369140625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743231,
+      "time": 1715222199.172839,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "metrics.data.hicloud.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003104209899902344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743230,
+      "time": 1715222199.1737547,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "metrics2.data.hicloud.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003859996795654297
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743229,
+      "time": 1715222199.1747825,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "metrics2.data.hicloud.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003452301025390625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743228,
+      "time": 1715222199.1757734,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "metrics2.data.hicloud.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.0003628730773925781
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743227,
+      "time": 1715222199.1774123,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "grs.hicloud.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003674030303955078
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743226,
+      "time": 1715222199.1783993,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "grs.hicloud.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.000329732894897461
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743225,
+      "time": 1715222199.17934,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "logservice.hicloud.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00037670135498046875
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743224,
+      "time": 1715222199.1803753,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "logservice.hicloud.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00044155120849609375
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743223,
+      "time": 1715222199.1814556,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "logservice1.hicloud.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003674030303955078
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743222,
+      "time": 1715222199.182471,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "logservice1.hicloud.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.000348806381225586
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743221,
+      "time": 1715222199.1834536,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "logbak.hicloud.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003979206085205078
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743220,
+      "time": 1715222199.1845176,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "logbak.hicloud.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0004088878631591797
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743219,
+      "time": 1715222199.1855643,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "logbak.hicloud.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.00033164024353027344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743218,
+      "time": 1715222199.1867356,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "click.oneplus.cn",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00031304359436035156
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743217,
+      "time": 1715222199.1876824,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "click.oneplus.cn",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00036215782165527344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743216,
+      "time": 1715222199.1901715,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "open.oneplus.net",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003685951232910156
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743215,
+      "time": 1715222199.1909075,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "open.oneplus.net",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004909038543701172
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743214,
+      "time": 1715222199.19298,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "open.oneplus.net",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00041556358337402344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743213,
+      "time": 1715222199.1938314,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "samsungads.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00035500526428222656
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743212,
+      "time": 1715222199.1944945,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "samsungads.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004138946533203125
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743211,
+      "time": 1715222199.1952772,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "metrics.mzstatic.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00041937828063964844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743210,
+      "time": 1715222199.197545,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "notes-analytics-events.apple.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0004208087921142578
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743209,
+      "time": 1715222199.1983144,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "notes-analytics-events.apple.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004267692565917969
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743208,
+      "time": 1715222199.199119,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "notes-analytics-events.apple.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000421762466430664
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743207,
+      "time": 1715222199.1999056,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "hotjar.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003426074981689453
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743206,
+      "time": 1715222199.2005756,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "hotjar.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0005867481231689453
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743205,
+      "time": 1715222199.2030866,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "hotjar.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004189014434814453
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743204,
+      "time": 1715222199.2046595,
+      "type": "HTTPS",
+      "status": "CACHE",
+      "dnssec": "INSECURE",
+      "domain": "a2047.api6.akamai.net",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0004742145538330078
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743203,
+      "time": 1715222199.20556,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "e11942.api5.akamaiedge.net",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.0003504753112792969
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743202,
+      "time": 1715222198.10791,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "wd.adcolony.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00039315223693847656
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743201,
+      "time": 1715222198.108742,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "wd.adcolony.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004322528839111328
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743200,
+      "time": 1715222198.109534,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "static.media.net",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.000337362289428711
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743199,
+      "time": 1715222198.110153,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "static.media.net",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000396728515625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743198,
+      "time": 1715222198.1108966,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "static.media.net",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0003952980041503906
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743197,
+      "time": 1715222198.111634,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "media.net",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003311634063720703
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743196,
+      "time": 1715222198.1122432,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "media.net",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00042629241943359375
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743195,
+      "time": 1715222198.1131194,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "media.net",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00041937828063964844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743194,
+      "time": 1715222198.1138983,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "adservetx.media.net",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00033593177795410156
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743193,
+      "time": 1715222198.1145349,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "adservetx.media.net",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004055500030517578
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743192,
+      "time": 1715222198.1153216,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "adservetx.media.net",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004112720489501953
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743191,
+      "time": 1715222198.116081,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.google.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003516674041748047
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743190,
+      "time": 1715222198.1167614,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.google.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00041937828063964844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743189,
+      "time": 1715222198.1175365,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "analytics.google.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0003974437713623047
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743188,
+      "time": 1715222198.11828,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "click.googleanalytics.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0003376007080078125
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743187,
+      "time": 1715222198.1188996,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "click.googleanalytics.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00040078163146972656
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743186,
+      "time": 1715222198.1196458,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "click.googleanalytics.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00039768218994140625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743185,
+      "time": 1715222198.120416,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "google-analytics.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0004322528839111328
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743184,
+      "time": 1715222198.121163,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "google-analytics.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00040793418884277344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743183,
+      "time": 1715222198.12194,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "google-analytics.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004055500030517578
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743182,
+      "time": 1715222198.122704,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ssl.google-analytics.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.000280141830444336
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743181,
+      "time": 1715222198.1232924,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ssl.google-analytics.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0003352165222167969
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743180,
+      "time": 1715222198.1239872,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "ssl.google-analytics.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0003612041473388672
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743179,
+      "time": 1715222198.1247833,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "identify.hotjar.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.000455617904663086
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743178,
+      "time": 1715222198.1263013,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "identify.hotjar.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.0004553794860839844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743177,
+      "time": 1715222198.1278107,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "identify.hotjar.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.00045013427734375
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743176,
+      "time": 1715222198.1307538,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "script.hotjar.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0005328655242919922
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743175,
+      "time": 1715222198.131662,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "script.hotjar.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00046443939208984375
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743174,
+      "time": 1715222198.1325521,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "script.hotjar.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000608205795288086
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743173,
+      "time": 1715222198.1336815,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "pacman-events-live.live.eks.hotjar.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00040030479431152344
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743172,
+      "time": 1715222198.1348505,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "pacman-events-live.live.eks.hotjar.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00046181678771972656
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743171,
+      "time": 1715222198.1360307,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "pacman-events-live.live.eks.hotjar.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.000330209732055664
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743170,
+      "time": 1715222198.1382442,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "mouseflow.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00038933753967285156
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743169,
+      "time": 1715222198.13898,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "mouseflow.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004589557647705078
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743168,
+      "time": 1715222198.1398287,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "mouseflow.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00041937828063964844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743167,
+      "time": 1715222198.1406534,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "cdn.mouseflow.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.000620126724243164
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743166,
+      "time": 1715222198.1416736,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "cdn.mouseflow.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000494241714477539
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743165,
+      "time": 1715222198.142636,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "cdn.mouseflow.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004603862762451172
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743164,
+      "time": 1715222198.1434996,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "o2.mouseflow.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0004706382751464844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743163,
+      "time": 1715222198.1443596,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "o2.mouseflow.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0005846023559570312
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743162,
+      "time": 1715222198.1454005,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "o2.mouseflow.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.00044226646423339844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743161,
+      "time": 1715222198.1462345,
+      "type": "HTTPS",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "claritybt.freshmarketer.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.0003070831298828125
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743160,
+      "time": 1715222198.1472814,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "claritybt.freshmarketer.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "CNAME",
+        "time": 0.00030493736267089844
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743159,
+      "time": 1715222198.1482873,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "upload.luckyorange.net",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0006465911865234375
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743158,
+      "time": 1715222198.1495357,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "cs.luckyorange.net",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.0005366802215576172
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743157,
+      "time": 1715222198.1504452,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "cs.luckyorange.net",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004737377166748047
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743156,
+      "time": 1715222198.1513462,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "cs.luckyorange.net",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000444173812866211
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743155,
+      "time": 1715222198.1521783,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "settings.luckyorange.net",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00036644935607910156
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743154,
+      "time": 1715222198.1529589,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "settings.luckyorange.net",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004634857177734375
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743153,
+      "time": 1715222198.1538877,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "settings.luckyorange.net",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0004520416259765625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743152,
+      "time": 1715222198.1556733,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "stats.wp.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.00046825408935546875
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743151,
+      "time": 1715222198.1565225,
+      "type": "AAAA",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "stats.wp.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.0005376338958740234
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743150,
+      "time": 1715222198.1574907,
+      "type": "A",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "stats.wp.com",
+      "upstream": null,
+      "reply": {
+        "type": "IP",
+        "time": 0.000440359115600586
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743149,
+      "time": 1715222198.1583226,
+      "type": "HTTPS",
+      "status": "GRAVITY",
+      "dnssec": "INSECURE",
+      "domain": "sdkconfig.ad.xiaomi.com",
+      "upstream": null,
+      "reply": {
+        "type": "NODATA",
+        "time": 0.000409841537475586
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": -3,
+      "cname": null
+    },
+    {
+      "id": 743023,
+      "time": 1715222179.0671475,
+      "type": "AAAA",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "youtubei.googleapis.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.00879645347595215
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    },
+    {
+      "id": 743022,
+      "time": 1715222179.0791388,
+      "type": "A",
+      "status": "CACHE_STALE",
+      "dnssec": "INSECURE",
+      "domain": "youtubei.googleapis.com",
+      "upstream": "127.0.0.1#5335",
+      "reply": {
+        "type": "IP",
+        "time": 0.000431060791015625
+      },
+      "client": {
+        "ip": "192.168.1.116",
+        "name": null
+      },
+      "list_id": null,
+      "cname": null
+    }
+  ],
+  "cursor": 823225,
+  "recordsTotal": 753084,
+  "recordsFiltered": 209,
+  "draw": 0,
+  "took": 0.0072591304779052734
+}
